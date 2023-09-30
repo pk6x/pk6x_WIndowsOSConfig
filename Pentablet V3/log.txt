@@ -1,0 +1,653 @@
+DateTime:2023-08-11 23:00:10 Fri Warning:QMetaObject::connectSlotsByName: No matching signal for on_horizontalSlider_tablet_light_valueChanged(int) File:  Line:0  Action:
+DateTime:2023-08-11 23:00:10 Fri Warning:QLayout: Attempting to add QLayout "" to MainWindow "MainWindow", which already has a layout File:  Line:0  Action:
+DateTime:2023-08-11 23:00:12 Fri Info:Function EnmuVisualHidDevice :find the  visual hid device! File:  Line:0  Action:
+DateTime:2023-08-11 23:00:12 Fri Info:SetupDiEnumDeviceInfo CreateFile OK():  File:  Line:0  Action:
+DateTime:2023-08-11 23:00:12 Fri Info:SetupDiEnumDeviceInfo CreateFile SetupDiDestroyDeviceInfoList():  File:  Line:0  Action:
+DateTime:2023-08-11 23:00:12 Fri Info:EnmuVisualHidDevice::Init ok 
+ File:  Line:0  Action:
+DateTime:2023-08-11 23:00:12 Fri Info:Function  EnumDisplay nScreenCount: 2 File:  Line:0  Action:
+DateTime:2023-08-11 23:00:12 Fri Info:Device.AllScreen "All monitor(0,0,5120,1440)" File:  Line:0  Action:
+DateTime:2023-08-11 23:00:12 Fri Info:Device.Screen 1 : "Monitor1(0,0,2560,1440)Primary" File:  Line:0  Action:
+DateTime:2023-08-11 23:00:12 Fri Info:Device.Screen 2 : "Monitor2(2560,0,2560,1440)" File:  Line:0  Action:
+DateTime:2023-08-11 23:01:46 Fri Info:Function  LoadConfig success File:  Line:0  Action:
+DateTime:2023-08-11 23:01:46 Fri Info:Function  UpdateUIByAppChange: "Deco mini7W" File:  Line:0  Action:
+DateTime:2023-08-11 23:01:46 Fri Info:Function nativeEvent usb: "\\\\?\\HID#VID_28BD&PID_0928&MI_02#8&2678396c&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}"  connected File:  Line:0  Action:
+DateTime:2023-08-11 23:02:01 Fri Info:Function  UpdateUIByAppChange: "Deco mini7" File:  Line:0  Action:
+DateTime:2023-08-11 23:02:01 Fri Info:Function nativeEvent usb: "\\\\?\\HID#VID_28BD&PID_0928&MI_02#8&25b0c2cc&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}"  connected File:  Line:0  Action:
+DateTime:2023-08-11 23:02:08 Fri Info:Function nativeEvent usb: "\\\\?\\HID#VID_28BD&PID_0928&MI_02#8&2678396c&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}"  connected File:  Line:0  Action:
+DateTime:2023-08-11 23:02:20 Fri Info:Function  UpdateUIByAppChange: "Deco mini7W" File:  Line:0  Action:
+DateTime:2023-08-11 23:02:20 Fri Info:Function nativeEvent: "\\\\?\\HID#VID_28BD&PID_0928&MI_02#8&25b0c2cc&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}"  disconnected "PID_0928" File:  Line:0  Action:
+DateTime:2023-08-11 23:02:30 Fri Info:Function nativeEvent: "\\\\?\\HID#VID_28BD&PID_0928&MI_02#8&2678396c&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}"  disconnected "PID_0928" File:  Line:0  Action:
+DateTime:2023-08-11 23:02:36 Fri Info:Function  LoadConfig success File:  Line:0  Action:
+DateTime:2023-08-11 23:02:36 Fri Info:Function  UpdateUIByAppChange: "Deco mini7W" File:  Line:0  Action:
+DateTime:2023-08-11 23:02:36 Fri Info:Function nativeEvent usb: "\\\\?\\HID#VID_28BD&PID_0928&MI_02#8&2678396c&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}"  connected File:  Line:0  Action:
+DateTime:2023-08-11 23:03:05 Fri Warning:QMetaObject::connectSlotsByName: No matching signal for on_btn_setworkarea_clicked() File:  Line:0  Action:
+DateTime:2023-08-11 23:07:44 Fri Warning:QMetaObject::connectSlotsByName: No matching signal for on_pushButton_clicked(bool) File:  Line:0  Action:
+DateTime:2023-08-12 07:04:33 Sat Warning:QMetaObject::connectSlotsByName: No matching signal for on_horizontalSlider_tablet_light_valueChanged(int) File:  Line:0  Action:
+DateTime:2023-08-12 07:04:33 Sat Warning:QLayout: Attempting to add QLayout "" to MainWindow "MainWindow", which already has a layout File:  Line:0  Action:
+DateTime:2023-08-12 07:04:34 Sat Info:Function EnmuVisualHidDevice :find the  visual hid device! File:  Line:0  Action:
+DateTime:2023-08-12 07:04:34 Sat Info:SetupDiEnumDeviceInfo CreateFile OK():  File:  Line:0  Action:
+DateTime:2023-08-12 07:04:34 Sat Info:SetupDiEnumDeviceInfo CreateFile SetupDiDestroyDeviceInfoList():  File:  Line:0  Action:
+DateTime:2023-08-12 07:04:34 Sat Info:EnmuVisualHidDevice::Init ok 
+ File:  Line:0  Action:
+DateTime:2023-08-12 07:04:34 Sat Info:Function  EnumDisplay nScreenCount: 2 File:  Line:0  Action:
+DateTime:2023-08-12 07:04:34 Sat Info:Device.AllScreen "All monitor(0,0,5120,1440)" File:  Line:0  Action:
+DateTime:2023-08-12 07:04:34 Sat Info:Device.Screen 1 : "Monitor1(0,0,2560,1440)Primary" File:  Line:0  Action:
+DateTime:2023-08-12 07:04:34 Sat Info:Device.Screen 2 : "Monitor2(2560,0,2560,1440)" File:  Line:0  Action:
+DateTime:2023-08-12 07:04:34 Sat Info:Function EnmuTabeltDevice CUSBTablet: "\\\\?\\hid#vid_28bd&pid_0928&mi_02#8&2678396c&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}" File:  Line:0  Action:
+DateTime:2023-08-12 07:04:35 Sat Info:Function  LoadConfig success File:  Line:0  Action:
+DateTime:2023-08-12 07:04:35 Sat Info:EnmuTabeltDevice: "Deco mini7W" -- "DecoMini7" File:  Line:0  Action:
+DateTime:2023-08-12 07:04:35 Sat Info:"Deco mini7W" File:  Line:0  Action:
+DateTime:2023-08-12 07:04:35 Sat Info:Function  UpdateUIByAppChange: "Deco mini7W" File:  Line:0  Action:
+DateTime:2023-08-12 07:05:12 Sat Info:SentCmd-- 2 File:  Line:0  Action:
+DateTime:2023-08-12 07:05:12 Sat Info:PentableV3 Closed. File:  Line:0  Action:
+DateTime:2023-08-12 07:39:55 Sat Warning:QMetaObject::connectSlotsByName: No matching signal for on_horizontalSlider_tablet_light_valueChanged(int) File:  Line:0  Action:
+DateTime:2023-08-12 07:39:55 Sat Warning:QLayout: Attempting to add QLayout "" to MainWindow "MainWindow", which already has a layout File:  Line:0  Action:
+DateTime:2023-08-12 07:39:55 Sat Info:Function EnmuVisualHidDevice :find the  visual hid device! File:  Line:0  Action:
+DateTime:2023-08-12 07:39:55 Sat Info:SetupDiEnumDeviceInfo CreateFile OK():  File:  Line:0  Action:
+DateTime:2023-08-12 07:39:55 Sat Info:SetupDiEnumDeviceInfo CreateFile SetupDiDestroyDeviceInfoList():  File:  Line:0  Action:
+DateTime:2023-08-12 07:39:55 Sat Info:EnmuVisualHidDevice::Init ok 
+ File:  Line:0  Action:
+DateTime:2023-08-12 07:39:55 Sat Info:Function  EnumDisplay nScreenCount: 2 File:  Line:0  Action:
+DateTime:2023-08-12 07:39:55 Sat Info:Device.AllScreen "All monitor(0,0,5120,1440)" File:  Line:0  Action:
+DateTime:2023-08-12 07:39:55 Sat Info:Device.Screen 1 : "Monitor1(0,0,2560,1440)Primary" File:  Line:0  Action:
+DateTime:2023-08-12 07:39:56 Sat Info:Device.Screen 2 : "Monitor2(2560,0,2560,1440)" File:  Line:0  Action:
+DateTime:2023-08-12 07:39:56 Sat Info:Function EnmuTabeltDevice CUSBTablet: "\\\\?\\hid#vid_28bd&pid_0928&mi_02#8&2678396c&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}" File:  Line:0  Action:
+DateTime:2023-08-12 07:39:56 Sat Info:Function  LoadConfig success File:  Line:0  Action:
+DateTime:2023-08-12 07:39:56 Sat Info:EnmuTabeltDevice: "Deco mini7W" -- "DecoMini7" File:  Line:0  Action:
+DateTime:2023-08-12 07:39:56 Sat Info:"Deco mini7W" File:  Line:0  Action:
+DateTime:2023-08-12 07:39:56 Sat Info:Function  UpdateUIByAppChange: "Deco mini7W" File:  Line:0  Action:
+DateTime:2023-08-12 08:08:52 Sat Warning:QMetaObject::connectSlotsByName: No matching signal for on_pushButton_clicked(bool) File:  Line:0  Action:
+DateTime:2023-08-12 08:09:19 Sat Warning:QMetaObject::connectSlotsByName: No matching signal for on_pushButton_clicked(bool) File:  Line:0  Action:
+DateTime:2023-08-12 08:09:33 Sat Warning:QMetaObject::connectSlotsByName: No matching signal for on_pushButton_clicked(bool) File:  Line:0  Action:
+DateTime:2023-08-12 08:09:53 Sat Warning:QMetaObject::connectSlotsByName: No matching signal for on_pushButton_clicked(bool) File:  Line:0  Action:
+DateTime:2023-08-12 08:10:06 Sat Warning:QMetaObject::connectSlotsByName: No matching signal for on_pushButton_clicked(bool) File:  Line:0  Action:
+DateTime:2023-08-12 08:10:19 Sat Warning:QMetaObject::connectSlotsByName: No matching signal for on_pushButton_clicked(bool) File:  Line:0  Action:
+DateTime:2023-08-12 08:11:11 Sat Warning:QMetaObject::connectSlotsByName: No matching signal for on_pushButton_clicked(bool) File:  Line:0  Action:
+DateTime:2023-08-12 08:12:01 Sat Warning:QMetaObject::connectSlotsByName: No matching signal for on_pushButton_clicked(bool) File:  Line:0  Action:
+DateTime:2023-08-12 08:14:12 Sat Warning:QMetaObject::connectSlotsByName: No matching signal for on_pushButton_clicked(bool) File:  Line:0  Action:
+DateTime:2023-08-12 09:56:44 Sat Warning:QMetaObject::connectSlotsByName: No matching signal for on_horizontalSlider_tablet_light_valueChanged(int) File:  Line:0  Action:
+DateTime:2023-08-12 09:56:44 Sat Warning:QLayout: Attempting to add QLayout "" to MainWindow "MainWindow", which already has a layout File:  Line:0  Action:
+DateTime:2023-08-12 09:56:45 Sat Info:Function EnmuVisualHidDevice :find the  visual hid device! File:  Line:0  Action:
+DateTime:2023-08-12 09:56:45 Sat Info:SetupDiEnumDeviceInfo CreateFile OK():  File:  Line:0  Action:
+DateTime:2023-08-12 09:56:45 Sat Info:SetupDiEnumDeviceInfo CreateFile SetupDiDestroyDeviceInfoList():  File:  Line:0  Action:
+DateTime:2023-08-12 09:56:45 Sat Info:EnmuVisualHidDevice::Init ok 
+ File:  Line:0  Action:
+DateTime:2023-08-12 09:56:45 Sat Info:Function  EnumDisplay nScreenCount: 2 File:  Line:0  Action:
+DateTime:2023-08-12 09:56:45 Sat Info:Device.AllScreen "All monitor(0,0,5120,1440)" File:  Line:0  Action:
+DateTime:2023-08-12 09:56:45 Sat Info:Device.Screen 1 : "Monitor1(0,0,2560,1440)Primary" File:  Line:0  Action:
+DateTime:2023-08-12 09:56:45 Sat Info:Device.Screen 2 : "Monitor2(2560,0,2560,1440)" File:  Line:0  Action:
+DateTime:2023-08-12 09:56:45 Sat Info:Function EnmuTabeltDevice CUSBTablet: "\\\\?\\hid#vid_28bd&pid_0928&mi_02#8&2678396c&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}" File:  Line:0  Action:
+DateTime:2023-08-12 09:56:45 Sat Info:Function  LoadConfig success File:  Line:0  Action:
+DateTime:2023-08-12 09:56:45 Sat Info:EnmuTabeltDevice: "Deco mini7W" -- "DecoMini7" File:  Line:0  Action:
+DateTime:2023-08-12 09:56:45 Sat Info:"Deco mini7W" File:  Line:0  Action:
+DateTime:2023-08-12 09:56:45 Sat Info:Function  UpdateUIByAppChange: "Deco mini7W" File:  Line:0  Action:
+DateTime:2023-08-12 10:41:57 Sat Warning:QMetaObject::connectSlotsByName: No matching signal for on_pushButton_clicked(bool) File:  Line:0  Action:
+DateTime:2023-08-13 07:03:21 Sun Warning:QMetaObject::connectSlotsByName: No matching signal for on_horizontalSlider_tablet_light_valueChanged(int) File:  Line:0  Action:
+DateTime:2023-08-13 07:03:21 Sun Warning:QLayout: Attempting to add QLayout "" to MainWindow "MainWindow", which already has a layout File:  Line:0  Action:
+DateTime:2023-08-13 07:03:23 Sun Info:Function EnmuVisualHidDevice :find the  visual hid device! File:  Line:0  Action:
+DateTime:2023-08-13 07:03:23 Sun Info:SetupDiEnumDeviceInfo CreateFile OK():  File:  Line:0  Action:
+DateTime:2023-08-13 07:03:23 Sun Info:SetupDiEnumDeviceInfo CreateFile SetupDiDestroyDeviceInfoList():  File:  Line:0  Action:
+DateTime:2023-08-13 07:03:23 Sun Info:EnmuVisualHidDevice::Init ok 
+ File:  Line:0  Action:
+DateTime:2023-08-13 07:03:23 Sun Info:Function  EnumDisplay nScreenCount: 2 File:  Line:0  Action:
+DateTime:2023-08-13 07:03:23 Sun Info:Device.AllScreen "All monitor(0,0,5120,1440)" File:  Line:0  Action:
+DateTime:2023-08-13 07:03:23 Sun Info:Device.Screen 1 : "Monitor1(0,0,2560,1440)Primary" File:  Line:0  Action:
+DateTime:2023-08-13 07:03:23 Sun Info:Device.Screen 2 : "Monitor2(2560,0,2560,1440)" File:  Line:0  Action:
+DateTime:2023-08-13 07:03:23 Sun Info:Function EnmuTabeltDevice CUSBTablet: "\\\\?\\hid#vid_28bd&pid_0928&mi_02#8&2678396c&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}" File:  Line:0  Action:
+DateTime:2023-08-13 07:03:23 Sun Info:Function  LoadConfig success File:  Line:0  Action:
+DateTime:2023-08-13 07:03:23 Sun Info:EnmuTabeltDevice: "Deco mini7W" -- "DecoMini7" File:  Line:0  Action:
+DateTime:2023-08-13 07:03:23 Sun Info:"Deco mini7W" File:  Line:0  Action:
+DateTime:2023-08-13 07:03:23 Sun Info:Function  UpdateUIByAppChange: "Deco mini7W" File:  Line:0  Action:
+DateTime:2023-08-14 07:10:04 Mon Warning:QMetaObject::connectSlotsByName: No matching signal for on_horizontalSlider_tablet_light_valueChanged(int) File:  Line:0  Action:
+DateTime:2023-08-14 07:10:04 Mon Warning:QLayout: Attempting to add QLayout "" to MainWindow "MainWindow", which already has a layout File:  Line:0  Action:
+DateTime:2023-08-14 07:10:06 Mon Info:Function EnmuVisualHidDevice :find the  visual hid device! File:  Line:0  Action:
+DateTime:2023-08-14 07:10:06 Mon Info:SetupDiEnumDeviceInfo CreateFile OK():  File:  Line:0  Action:
+DateTime:2023-08-14 07:10:06 Mon Info:SetupDiEnumDeviceInfo CreateFile SetupDiDestroyDeviceInfoList():  File:  Line:0  Action:
+DateTime:2023-08-14 07:10:06 Mon Info:EnmuVisualHidDevice::Init ok 
+ File:  Line:0  Action:
+DateTime:2023-08-14 07:10:06 Mon Info:Function  EnumDisplay nScreenCount: 2 File:  Line:0  Action:
+DateTime:2023-08-14 07:10:06 Mon Info:Device.AllScreen "All monitor(0,0,5120,1440)" File:  Line:0  Action:
+DateTime:2023-08-14 07:10:06 Mon Info:Device.Screen 1 : "Monitor1(0,0,2560,1440)Primary" File:  Line:0  Action:
+DateTime:2023-08-14 07:10:06 Mon Info:Device.Screen 2 : "Monitor2(2560,0,2560,1440)" File:  Line:0  Action:
+DateTime:2023-08-14 07:10:06 Mon Info:Function EnmuTabeltDevice CUSBTablet: "\\\\?\\hid#vid_28bd&pid_0928&mi_02#8&2678396c&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}" File:  Line:0  Action:
+DateTime:2023-08-14 07:10:06 Mon Info:Function  LoadConfig success File:  Line:0  Action:
+DateTime:2023-08-14 07:10:06 Mon Info:EnmuTabeltDevice: "Deco mini7W" -- "DecoMini7" File:  Line:0  Action:
+DateTime:2023-08-14 07:10:06 Mon Info:"Deco mini7W" File:  Line:0  Action:
+DateTime:2023-08-14 07:10:06 Mon Info:Function  UpdateUIByAppChange: "Deco mini7W" File:  Line:0  Action:
+DateTime:2023-08-14 17:22:41 Mon Warning:QMetaObject::connectSlotsByName: No matching signal for on_horizontalSlider_tablet_light_valueChanged(int) File:  Line:0  Action:
+DateTime:2023-08-14 17:22:41 Mon Warning:QLayout: Attempting to add QLayout "" to MainWindow "MainWindow", which already has a layout File:  Line:0  Action:
+DateTime:2023-08-14 17:22:43 Mon Info:Function EnmuVisualHidDevice :find the  visual hid device! File:  Line:0  Action:
+DateTime:2023-08-14 17:22:43 Mon Info:SetupDiEnumDeviceInfo CreateFile OK():  File:  Line:0  Action:
+DateTime:2023-08-14 17:22:43 Mon Info:SetupDiEnumDeviceInfo CreateFile SetupDiDestroyDeviceInfoList():  File:  Line:0  Action:
+DateTime:2023-08-14 17:22:43 Mon Info:EnmuVisualHidDevice::Init ok 
+ File:  Line:0  Action:
+DateTime:2023-08-14 17:22:43 Mon Info:Function  EnumDisplay nScreenCount: 2 File:  Line:0  Action:
+DateTime:2023-08-14 17:22:43 Mon Info:Device.AllScreen "All monitor(0,0,5120,1440)" File:  Line:0  Action:
+DateTime:2023-08-14 17:22:43 Mon Info:Device.Screen 1 : "Monitor1(0,0,2560,1440)Primary" File:  Line:0  Action:
+DateTime:2023-08-14 17:22:43 Mon Info:Device.Screen 2 : "Monitor2(2560,0,2560,1440)" File:  Line:0  Action:
+DateTime:2023-08-14 17:22:43 Mon Info:Function EnmuTabeltDevice CUSBTablet: "\\\\?\\hid#vid_28bd&pid_0928&mi_02#8&2678396c&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}" File:  Line:0  Action:
+DateTime:2023-08-14 17:22:43 Mon Info:Function  LoadConfig success File:  Line:0  Action:
+DateTime:2023-08-14 17:22:43 Mon Info:EnmuTabeltDevice: "Deco mini7W" -- "DecoMini7" File:  Line:0  Action:
+DateTime:2023-08-14 17:22:43 Mon Info:"Deco mini7W" File:  Line:0  Action:
+DateTime:2023-08-14 17:22:43 Mon Info:Function  UpdateUIByAppChange: "Deco mini7W" File:  Line:0  Action:
+DateTime:2023-08-15 07:10:34 Tue Warning:QMetaObject::connectSlotsByName: No matching signal for on_horizontalSlider_tablet_light_valueChanged(int) File:  Line:0  Action:
+DateTime:2023-08-15 07:10:34 Tue Warning:QLayout: Attempting to add QLayout "" to MainWindow "MainWindow", which already has a layout File:  Line:0  Action:
+DateTime:2023-08-15 07:10:36 Tue Info:Function EnmuVisualHidDevice :find the  visual hid device! File:  Line:0  Action:
+DateTime:2023-08-15 07:10:36 Tue Info:SetupDiEnumDeviceInfo CreateFile OK():  File:  Line:0  Action:
+DateTime:2023-08-15 07:10:36 Tue Info:SetupDiEnumDeviceInfo CreateFile SetupDiDestroyDeviceInfoList():  File:  Line:0  Action:
+DateTime:2023-08-15 07:10:36 Tue Info:EnmuVisualHidDevice::Init ok 
+ File:  Line:0  Action:
+DateTime:2023-08-15 07:10:36 Tue Info:Function  EnumDisplay nScreenCount: 2 File:  Line:0  Action:
+DateTime:2023-08-15 07:10:36 Tue Info:Device.AllScreen "All monitor(0,0,5120,1440)" File:  Line:0  Action:
+DateTime:2023-08-15 07:10:36 Tue Info:Device.Screen 1 : "Monitor1(0,0,2560,1440)Primary" File:  Line:0  Action:
+DateTime:2023-08-15 07:10:36 Tue Info:Device.Screen 2 : "Monitor2(2560,0,2560,1440)" File:  Line:0  Action:
+DateTime:2023-08-15 07:10:36 Tue Info:Function EnmuTabeltDevice CUSBTablet: "\\\\?\\hid#vid_28bd&pid_0928&mi_02#8&2678396c&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}" File:  Line:0  Action:
+DateTime:2023-08-15 07:10:36 Tue Info:Function  LoadConfig success File:  Line:0  Action:
+DateTime:2023-08-15 07:10:36 Tue Info:EnmuTabeltDevice: "Deco mini7W" -- "DecoMini7" File:  Line:0  Action:
+DateTime:2023-08-15 07:10:36 Tue Info:"Deco mini7W" File:  Line:0  Action:
+DateTime:2023-08-15 07:10:36 Tue Info:Function  UpdateUIByAppChange: "Deco mini7W" File:  Line:0  Action:
+DateTime:2023-08-15 17:30:47 Tue Warning:QMetaObject::connectSlotsByName: No matching signal for on_horizontalSlider_tablet_light_valueChanged(int) File:  Line:0  Action:
+DateTime:2023-08-15 17:30:47 Tue Warning:QLayout: Attempting to add QLayout "" to MainWindow "MainWindow", which already has a layout File:  Line:0  Action:
+DateTime:2023-08-15 17:30:48 Tue Info:Function EnmuVisualHidDevice :find the  visual hid device! File:  Line:0  Action:
+DateTime:2023-08-15 17:30:48 Tue Info:SetupDiEnumDeviceInfo CreateFile OK():  File:  Line:0  Action:
+DateTime:2023-08-15 17:30:48 Tue Info:SetupDiEnumDeviceInfo CreateFile SetupDiDestroyDeviceInfoList():  File:  Line:0  Action:
+DateTime:2023-08-15 17:30:48 Tue Info:EnmuVisualHidDevice::Init ok 
+ File:  Line:0  Action:
+DateTime:2023-08-15 17:30:49 Tue Info:Function  EnumDisplay nScreenCount: 2 File:  Line:0  Action:
+DateTime:2023-08-15 17:30:49 Tue Info:Device.AllScreen "All monitor(0,0,5120,1440)" File:  Line:0  Action:
+DateTime:2023-08-15 17:30:49 Tue Info:Device.Screen 1 : "Monitor1(0,0,2560,1440)Primary" File:  Line:0  Action:
+DateTime:2023-08-15 17:30:49 Tue Info:Device.Screen 2 : "Monitor2(2560,0,2560,1440)" File:  Line:0  Action:
+DateTime:2023-08-15 17:30:49 Tue Info:Function EnmuTabeltDevice CUSBTablet: "\\\\?\\hid#vid_28bd&pid_0928&mi_02#8&2678396c&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}" File:  Line:0  Action:
+DateTime:2023-08-15 17:30:49 Tue Info:Function  LoadConfig success File:  Line:0  Action:
+DateTime:2023-08-15 17:30:49 Tue Info:EnmuTabeltDevice: "Deco mini7W" -- "DecoMini7" File:  Line:0  Action:
+DateTime:2023-08-15 17:30:49 Tue Info:"Deco mini7W" File:  Line:0  Action:
+DateTime:2023-08-15 17:30:49 Tue Info:Function  UpdateUIByAppChange: "Deco mini7W" File:  Line:0  Action:
+DateTime:2023-08-16 06:49:52 Wed Warning:QMetaObject::connectSlotsByName: No matching signal for on_horizontalSlider_tablet_light_valueChanged(int) File:  Line:0  Action:
+DateTime:2023-08-16 06:49:52 Wed Warning:QLayout: Attempting to add QLayout "" to MainWindow "MainWindow", which already has a layout File:  Line:0  Action:
+DateTime:2023-08-16 06:49:53 Wed Info:Function EnmuVisualHidDevice :find the  visual hid device! File:  Line:0  Action:
+DateTime:2023-08-16 06:49:53 Wed Info:SetupDiEnumDeviceInfo CreateFile OK():  File:  Line:0  Action:
+DateTime:2023-08-16 06:49:53 Wed Info:SetupDiEnumDeviceInfo CreateFile SetupDiDestroyDeviceInfoList():  File:  Line:0  Action:
+DateTime:2023-08-16 06:49:53 Wed Info:EnmuVisualHidDevice::Init ok 
+ File:  Line:0  Action:
+DateTime:2023-08-16 06:49:53 Wed Info:Function  EnumDisplay nScreenCount: 2 File:  Line:0  Action:
+DateTime:2023-08-16 06:49:53 Wed Info:Device.AllScreen "All monitor(0,0,5120,1440)" File:  Line:0  Action:
+DateTime:2023-08-16 06:49:53 Wed Info:Device.Screen 1 : "Monitor1(0,0,2560,1440)Primary" File:  Line:0  Action:
+DateTime:2023-08-16 06:49:53 Wed Info:Device.Screen 2 : "Monitor2(2560,0,2560,1440)" File:  Line:0  Action:
+DateTime:2023-08-16 06:49:53 Wed Info:Function EnmuTabeltDevice CUSBTablet: "\\\\?\\hid#vid_28bd&pid_0928&mi_02#8&2678396c&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}" File:  Line:0  Action:
+DateTime:2023-08-16 06:49:53 Wed Info:Function  LoadConfig success File:  Line:0  Action:
+DateTime:2023-08-16 06:49:53 Wed Info:EnmuTabeltDevice: "Deco mini7W" -- "DecoMini7" File:  Line:0  Action:
+DateTime:2023-08-16 06:49:53 Wed Info:"Deco mini7W" File:  Line:0  Action:
+DateTime:2023-08-16 06:49:53 Wed Info:Function  UpdateUIByAppChange: "Deco mini7W" File:  Line:0  Action:
+DateTime:2023-08-16 18:01:56 Wed Warning:QMetaObject::connectSlotsByName: No matching signal for on_horizontalSlider_tablet_light_valueChanged(int) File:  Line:0  Action:
+DateTime:2023-08-16 18:01:56 Wed Warning:QLayout: Attempting to add QLayout "" to MainWindow "MainWindow", which already has a layout File:  Line:0  Action:
+DateTime:2023-08-16 18:01:59 Wed Info:Function EnmuVisualHidDevice :find the  visual hid device! File:  Line:0  Action:
+DateTime:2023-08-16 18:01:59 Wed Info:SetupDiEnumDeviceInfo CreateFile OK():  File:  Line:0  Action:
+DateTime:2023-08-16 18:01:59 Wed Info:SetupDiEnumDeviceInfo CreateFile SetupDiDestroyDeviceInfoList():  File:  Line:0  Action:
+DateTime:2023-08-16 18:01:59 Wed Info:EnmuVisualHidDevice::Init ok 
+ File:  Line:0  Action:
+DateTime:2023-08-16 18:01:59 Wed Info:Function  EnumDisplay nScreenCount: 2 File:  Line:0  Action:
+DateTime:2023-08-16 18:01:59 Wed Info:Device.AllScreen "All monitor(0,0,5120,1440)" File:  Line:0  Action:
+DateTime:2023-08-16 18:01:59 Wed Info:Device.Screen 1 : "Monitor1(0,0,2560,1440)Primary" File:  Line:0  Action:
+DateTime:2023-08-16 18:01:59 Wed Info:Device.Screen 2 : "Monitor2(2560,0,2560,1440)" File:  Line:0  Action:
+DateTime:2023-08-16 18:02:00 Wed Info:Function EnmuTabeltDevice CUSBTablet: "\\\\?\\hid#vid_28bd&pid_0928&mi_02#8&2678396c&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}" File:  Line:0  Action:
+DateTime:2023-08-16 18:02:00 Wed Info:Function  LoadConfig success File:  Line:0  Action:
+DateTime:2023-08-16 18:02:00 Wed Info:EnmuTabeltDevice: "Deco mini7W" -- "DecoMini7" File:  Line:0  Action:
+DateTime:2023-08-16 18:02:00 Wed Info:"Deco mini7W" File:  Line:0  Action:
+DateTime:2023-08-16 18:02:00 Wed Info:Function  UpdateUIByAppChange: "Deco mini7W" File:  Line:0  Action:
+DateTime:2023-08-17 06:45:27 Thu Warning:QMetaObject::connectSlotsByName: No matching signal for on_horizontalSlider_tablet_light_valueChanged(int) File:  Line:0  Action:
+DateTime:2023-08-17 06:45:27 Thu Warning:QLayout: Attempting to add QLayout "" to MainWindow "MainWindow", which already has a layout File:  Line:0  Action:
+DateTime:2023-08-17 06:45:29 Thu Info:Function EnmuVisualHidDevice :find the  visual hid device! File:  Line:0  Action:
+DateTime:2023-08-17 06:45:29 Thu Info:SetupDiEnumDeviceInfo CreateFile OK():  File:  Line:0  Action:
+DateTime:2023-08-17 06:45:29 Thu Info:SetupDiEnumDeviceInfo CreateFile SetupDiDestroyDeviceInfoList():  File:  Line:0  Action:
+DateTime:2023-08-17 06:45:29 Thu Info:EnmuVisualHidDevice::Init ok 
+ File:  Line:0  Action:
+DateTime:2023-08-17 06:45:29 Thu Info:Function  EnumDisplay nScreenCount: 2 File:  Line:0  Action:
+DateTime:2023-08-17 06:45:29 Thu Info:Device.AllScreen "All monitor(0,0,5120,1440)" File:  Line:0  Action:
+DateTime:2023-08-17 06:45:29 Thu Info:Device.Screen 1 : "Monitor1(0,0,2560,1440)Primary" File:  Line:0  Action:
+DateTime:2023-08-17 06:45:29 Thu Info:Device.Screen 2 : "Monitor2(2560,0,2560,1440)" File:  Line:0  Action:
+DateTime:2023-08-17 06:45:29 Thu Info:Function EnmuTabeltDevice CUSBTablet: "\\\\?\\hid#vid_28bd&pid_0928&mi_02#8&2678396c&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}" File:  Line:0  Action:
+DateTime:2023-08-17 06:45:29 Thu Info:Function  LoadConfig success File:  Line:0  Action:
+DateTime:2023-08-17 06:45:29 Thu Info:EnmuTabeltDevice: "Deco mini7W" -- "DecoMini7" File:  Line:0  Action:
+DateTime:2023-08-17 06:45:29 Thu Info:"Deco mini7W" File:  Line:0  Action:
+DateTime:2023-08-17 06:45:29 Thu Info:Function  UpdateUIByAppChange: "Deco mini7W" File:  Line:0  Action:
+DateTime:2023-08-17 17:20:20 Thu Warning:QMetaObject::connectSlotsByName: No matching signal for on_horizontalSlider_tablet_light_valueChanged(int) File:  Line:0  Action:
+DateTime:2023-08-17 17:20:20 Thu Warning:QLayout: Attempting to add QLayout "" to MainWindow "MainWindow", which already has a layout File:  Line:0  Action:
+DateTime:2023-08-17 17:20:21 Thu Info:Function EnmuVisualHidDevice :find the  visual hid device! File:  Line:0  Action:
+DateTime:2023-08-17 17:20:21 Thu Info:SetupDiEnumDeviceInfo CreateFile OK():  File:  Line:0  Action:
+DateTime:2023-08-17 17:20:21 Thu Info:SetupDiEnumDeviceInfo CreateFile SetupDiDestroyDeviceInfoList():  File:  Line:0  Action:
+DateTime:2023-08-17 17:20:21 Thu Info:EnmuVisualHidDevice::Init ok 
+ File:  Line:0  Action:
+DateTime:2023-08-17 17:20:22 Thu Info:Function  EnumDisplay nScreenCount: 2 File:  Line:0  Action:
+DateTime:2023-08-17 17:20:22 Thu Info:Device.AllScreen "All monitor(0,0,5120,1440)" File:  Line:0  Action:
+DateTime:2023-08-17 17:20:22 Thu Info:Device.Screen 1 : "Monitor1(0,0,2560,1440)Primary" File:  Line:0  Action:
+DateTime:2023-08-17 17:20:22 Thu Info:Device.Screen 2 : "Monitor2(2560,0,2560,1440)" File:  Line:0  Action:
+DateTime:2023-08-17 17:20:22 Thu Info:Function EnmuTabeltDevice CUSBTablet: "\\\\?\\hid#vid_28bd&pid_0928&mi_02#8&2678396c&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}" File:  Line:0  Action:
+DateTime:2023-08-17 17:20:22 Thu Info:Function  LoadConfig success File:  Line:0  Action:
+DateTime:2023-08-17 17:20:22 Thu Info:EnmuTabeltDevice: "Deco mini7W" -- "DecoMini7" File:  Line:0  Action:
+DateTime:2023-08-17 17:20:22 Thu Info:"Deco mini7W" File:  Line:0  Action:
+DateTime:2023-08-17 17:20:22 Thu Info:Function  UpdateUIByAppChange: "Deco mini7W" File:  Line:0  Action:
+DateTime:2023-08-18 07:03:21 Fri Warning:QMetaObject::connectSlotsByName: No matching signal for on_horizontalSlider_tablet_light_valueChanged(int) File:  Line:0  Action:
+DateTime:2023-08-18 07:03:21 Fri Warning:QLayout: Attempting to add QLayout "" to MainWindow "MainWindow", which already has a layout File:  Line:0  Action:
+DateTime:2023-08-18 07:03:22 Fri Info:Function EnmuVisualHidDevice :find the  visual hid device! File:  Line:0  Action:
+DateTime:2023-08-18 07:03:22 Fri Info:SetupDiEnumDeviceInfo CreateFile OK():  File:  Line:0  Action:
+DateTime:2023-08-18 07:03:22 Fri Info:SetupDiEnumDeviceInfo CreateFile SetupDiDestroyDeviceInfoList():  File:  Line:0  Action:
+DateTime:2023-08-18 07:03:22 Fri Info:EnmuVisualHidDevice::Init ok 
+ File:  Line:0  Action:
+DateTime:2023-08-18 07:03:22 Fri Info:Function  EnumDisplay nScreenCount: 2 File:  Line:0  Action:
+DateTime:2023-08-18 07:03:22 Fri Info:Device.AllScreen "All monitor(0,0,5120,1440)" File:  Line:0  Action:
+DateTime:2023-08-18 07:03:22 Fri Info:Device.Screen 1 : "Monitor1(0,0,2560,1440)Primary" File:  Line:0  Action:
+DateTime:2023-08-18 07:03:22 Fri Info:Device.Screen 2 : "Monitor2(2560,0,2560,1440)" File:  Line:0  Action:
+DateTime:2023-08-18 07:03:22 Fri Info:Function EnmuTabeltDevice CUSBTablet: "\\\\?\\hid#vid_28bd&pid_0928&mi_02#8&2678396c&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}" File:  Line:0  Action:
+DateTime:2023-08-18 07:03:23 Fri Info:Function  LoadConfig success File:  Line:0  Action:
+DateTime:2023-08-18 07:03:23 Fri Info:EnmuTabeltDevice: "Deco mini7W" -- "DecoMini7" File:  Line:0  Action:
+DateTime:2023-08-18 07:03:23 Fri Info:"Deco mini7W" File:  Line:0  Action:
+DateTime:2023-08-18 07:03:23 Fri Info:Function  UpdateUIByAppChange: "Deco mini7W" File:  Line:0  Action:
+DateTime:2023-08-18 18:26:15 Fri Warning:QMetaObject::connectSlotsByName: No matching signal for on_horizontalSlider_tablet_light_valueChanged(int) File:  Line:0  Action:
+DateTime:2023-08-18 18:26:15 Fri Warning:QLayout: Attempting to add QLayout "" to MainWindow "MainWindow", which already has a layout File:  Line:0  Action:
+DateTime:2023-08-18 18:26:17 Fri Info:Function EnmuVisualHidDevice :find the  visual hid device! File:  Line:0  Action:
+DateTime:2023-08-18 18:26:17 Fri Info:SetupDiEnumDeviceInfo CreateFile OK():  File:  Line:0  Action:
+DateTime:2023-08-18 18:26:17 Fri Info:SetupDiEnumDeviceInfo CreateFile SetupDiDestroyDeviceInfoList():  File:  Line:0  Action:
+DateTime:2023-08-18 18:26:17 Fri Info:EnmuVisualHidDevice::Init ok 
+ File:  Line:0  Action:
+DateTime:2023-08-18 18:26:17 Fri Info:Function  EnumDisplay nScreenCount: 2 File:  Line:0  Action:
+DateTime:2023-08-18 18:26:17 Fri Info:Device.AllScreen "All monitor(0,0,5120,1440)" File:  Line:0  Action:
+DateTime:2023-08-18 18:26:17 Fri Info:Device.Screen 1 : "Monitor1(0,0,2560,1440)Primary" File:  Line:0  Action:
+DateTime:2023-08-18 18:26:17 Fri Info:Device.Screen 2 : "Monitor2(2560,0,2560,1440)" File:  Line:0  Action:
+DateTime:2023-08-18 18:26:17 Fri Info:Function EnmuTabeltDevice CUSBTablet: "\\\\?\\hid#vid_28bd&pid_0928&mi_02#8&2678396c&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}" File:  Line:0  Action:
+DateTime:2023-08-18 18:26:17 Fri Info:Function  LoadConfig success File:  Line:0  Action:
+DateTime:2023-08-18 18:26:17 Fri Info:EnmuTabeltDevice: "Deco mini7W" -- "DecoMini7" File:  Line:0  Action:
+DateTime:2023-08-18 18:26:17 Fri Info:"Deco mini7W" File:  Line:0  Action:
+DateTime:2023-08-18 18:26:17 Fri Info:Function  UpdateUIByAppChange: "Deco mini7W" File:  Line:0  Action:
+DateTime:2023-08-19 07:13:54 Sat Warning:QMetaObject::connectSlotsByName: No matching signal for on_horizontalSlider_tablet_light_valueChanged(int) File:  Line:0  Action:
+DateTime:2023-08-19 07:13:54 Sat Warning:QLayout: Attempting to add QLayout "" to MainWindow "MainWindow", which already has a layout File:  Line:0  Action:
+DateTime:2023-08-19 07:13:55 Sat Info:Function EnmuVisualHidDevice :find the  visual hid device! File:  Line:0  Action:
+DateTime:2023-08-19 07:13:55 Sat Info:SetupDiEnumDeviceInfo CreateFile OK():  File:  Line:0  Action:
+DateTime:2023-08-19 07:13:55 Sat Info:SetupDiEnumDeviceInfo CreateFile SetupDiDestroyDeviceInfoList():  File:  Line:0  Action:
+DateTime:2023-08-19 07:13:55 Sat Info:EnmuVisualHidDevice::Init ok 
+ File:  Line:0  Action:
+DateTime:2023-08-19 07:13:55 Sat Info:Function  EnumDisplay nScreenCount: 2 File:  Line:0  Action:
+DateTime:2023-08-19 07:13:55 Sat Info:Device.AllScreen "All monitor(0,0,5120,1440)" File:  Line:0  Action:
+DateTime:2023-08-19 07:13:55 Sat Info:Device.Screen 1 : "Monitor1(0,0,2560,1440)Primary" File:  Line:0  Action:
+DateTime:2023-08-19 07:13:55 Sat Info:Device.Screen 2 : "Monitor2(2560,0,2560,1440)" File:  Line:0  Action:
+DateTime:2023-08-19 07:13:55 Sat Info:Function EnmuTabeltDevice CUSBTablet: "\\\\?\\hid#vid_28bd&pid_0928&mi_02#8&2678396c&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}" File:  Line:0  Action:
+DateTime:2023-08-19 07:13:55 Sat Info:Function  LoadConfig success File:  Line:0  Action:
+DateTime:2023-08-19 07:13:56 Sat Info:EnmuTabeltDevice: "Deco mini7W" -- "DecoMini7" File:  Line:0  Action:
+DateTime:2023-08-19 07:13:56 Sat Info:"Deco mini7W" File:  Line:0  Action:
+DateTime:2023-08-19 07:13:56 Sat Info:Function  UpdateUIByAppChange: "Deco mini7W" File:  Line:0  Action:
+DateTime:2023-08-19 11:34:52 Sat Info:Function  EnumDisplay nScreenCount: 2 File:  Line:0  Action:
+DateTime:2023-08-19 11:34:53 Sat Info:Device.AllScreen "All monitor(-2560,0,5120,1443)" File:  Line:0  Action:
+DateTime:2023-08-19 11:34:53 Sat Info:Device.Screen 1 : "Monitor1(-2560,3,2560,1440)" File:  Line:0  Action:
+DateTime:2023-08-19 11:34:53 Sat Info:Device.Screen 2 : "Monitor2(0,0,2560,1440)Primary" File:  Line:0  Action:
+DateTime:2023-08-19 11:35:35 Sat Info:Function  EnumDisplay nScreenCount: 2 File:  Line:0  Action:
+DateTime:2023-08-19 11:35:35 Sat Info:Device.AllScreen "All monitor(0,0,5120,1443)" File:  Line:0  Action:
+DateTime:2023-08-19 11:35:35 Sat Info:Device.Screen 1 : "Monitor1(0,0,2560,1440)Primary" File:  Line:0  Action:
+DateTime:2023-08-19 11:35:35 Sat Info:Device.Screen 2 : "Monitor2(2560,3,2560,1440)" File:  Line:0  Action:
+DateTime:2023-08-20 07:23:11 Sun Warning:QMetaObject::connectSlotsByName: No matching signal for on_horizontalSlider_tablet_light_valueChanged(int) File:  Line:0  Action:
+DateTime:2023-08-20 07:23:11 Sun Warning:QLayout: Attempting to add QLayout "" to MainWindow "MainWindow", which already has a layout File:  Line:0  Action:
+DateTime:2023-08-20 07:23:12 Sun Info:Function EnmuVisualHidDevice :find the  visual hid device! File:  Line:0  Action:
+DateTime:2023-08-20 07:23:12 Sun Info:SetupDiEnumDeviceInfo CreateFile OK():  File:  Line:0  Action:
+DateTime:2023-08-20 07:23:12 Sun Info:SetupDiEnumDeviceInfo CreateFile SetupDiDestroyDeviceInfoList():  File:  Line:0  Action:
+DateTime:2023-08-20 07:23:12 Sun Info:EnmuVisualHidDevice::Init ok 
+ File:  Line:0  Action:
+DateTime:2023-08-20 07:23:13 Sun Info:Function  EnumDisplay nScreenCount: 2 File:  Line:0  Action:
+DateTime:2023-08-20 07:23:13 Sun Info:Device.AllScreen "All monitor(0,0,5120,1443)" File:  Line:0  Action:
+DateTime:2023-08-20 07:23:13 Sun Info:Device.Screen 1 : "Monitor1(0,0,2560,1440)Primary" File:  Line:0  Action:
+DateTime:2023-08-20 07:23:13 Sun Info:Device.Screen 2 : "Monitor2(2560,3,2560,1440)" File:  Line:0  Action:
+DateTime:2023-08-20 07:23:13 Sun Info:Function EnmuTabeltDevice CUSBTablet: "\\\\?\\hid#vid_28bd&pid_0928&mi_02#8&2678396c&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}" File:  Line:0  Action:
+DateTime:2023-08-20 07:23:13 Sun Info:Function  LoadConfig success File:  Line:0  Action:
+DateTime:2023-08-20 07:23:13 Sun Info:EnmuTabeltDevice: "Deco mini7W" -- "DecoMini7" File:  Line:0  Action:
+DateTime:2023-08-20 07:23:13 Sun Info:"Deco mini7W" File:  Line:0  Action:
+DateTime:2023-08-20 07:23:13 Sun Info:Function  UpdateUIByAppChange: "Deco mini7W" File:  Line:0  Action:
+DateTime:2023-08-21 07:13:34 Mon Warning:QMetaObject::connectSlotsByName: No matching signal for on_horizontalSlider_tablet_light_valueChanged(int) File:  Line:0  Action:
+DateTime:2023-08-21 07:13:34 Mon Warning:QLayout: Attempting to add QLayout "" to MainWindow "MainWindow", which already has a layout File:  Line:0  Action:
+DateTime:2023-08-21 07:13:35 Mon Info:Function EnmuVisualHidDevice :find the  visual hid device! File:  Line:0  Action:
+DateTime:2023-08-21 07:13:35 Mon Info:SetupDiEnumDeviceInfo CreateFile OK():  File:  Line:0  Action:
+DateTime:2023-08-21 07:13:35 Mon Info:SetupDiEnumDeviceInfo CreateFile SetupDiDestroyDeviceInfoList():  File:  Line:0  Action:
+DateTime:2023-08-21 07:13:35 Mon Info:EnmuVisualHidDevice::Init ok 
+ File:  Line:0  Action:
+DateTime:2023-08-21 07:13:35 Mon Info:Function  EnumDisplay nScreenCount: 2 File:  Line:0  Action:
+DateTime:2023-08-21 07:13:35 Mon Info:Device.AllScreen "All monitor(0,0,5120,1443)" File:  Line:0  Action:
+DateTime:2023-08-21 07:13:35 Mon Info:Device.Screen 1 : "Monitor1(0,0,2560,1440)Primary" File:  Line:0  Action:
+DateTime:2023-08-21 07:13:35 Mon Info:Device.Screen 2 : "Monitor2(2560,3,2560,1440)" File:  Line:0  Action:
+DateTime:2023-08-21 07:13:36 Mon Info:Function EnmuTabeltDevice CUSBTablet: "\\\\?\\hid#vid_28bd&pid_0928&mi_02#8&2678396c&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}" File:  Line:0  Action:
+DateTime:2023-08-21 07:13:36 Mon Info:Function  LoadConfig success File:  Line:0  Action:
+DateTime:2023-08-21 07:13:36 Mon Info:EnmuTabeltDevice: "Deco mini7W" -- "DecoMini7" File:  Line:0  Action:
+DateTime:2023-08-21 07:13:36 Mon Info:"Deco mini7W" File:  Line:0  Action:
+DateTime:2023-08-21 07:13:36 Mon Info:Function  UpdateUIByAppChange: "Deco mini7W" File:  Line:0  Action:
+DateTime:2023-08-21 17:21:36 Mon Warning:QMetaObject::connectSlotsByName: No matching signal for on_horizontalSlider_tablet_light_valueChanged(int) File:  Line:0  Action:
+DateTime:2023-08-21 17:21:36 Mon Warning:QLayout: Attempting to add QLayout "" to MainWindow "MainWindow", which already has a layout File:  Line:0  Action:
+DateTime:2023-08-21 17:21:38 Mon Info:Function EnmuVisualHidDevice :find the  visual hid device! File:  Line:0  Action:
+DateTime:2023-08-21 17:21:38 Mon Info:SetupDiEnumDeviceInfo CreateFile OK():  File:  Line:0  Action:
+DateTime:2023-08-21 17:21:38 Mon Info:SetupDiEnumDeviceInfo CreateFile SetupDiDestroyDeviceInfoList():  File:  Line:0  Action:
+DateTime:2023-08-21 17:21:38 Mon Info:EnmuVisualHidDevice::Init ok 
+ File:  Line:0  Action:
+DateTime:2023-08-21 17:21:38 Mon Info:Function  EnumDisplay nScreenCount: 2 File:  Line:0  Action:
+DateTime:2023-08-21 17:21:38 Mon Info:Device.AllScreen "All monitor(0,0,5120,1443)" File:  Line:0  Action:
+DateTime:2023-08-21 17:21:38 Mon Info:Device.Screen 1 : "Monitor1(0,0,2560,1440)Primary" File:  Line:0  Action:
+DateTime:2023-08-21 17:21:39 Mon Info:Device.Screen 2 : "Monitor2(2560,3,2560,1440)" File:  Line:0  Action:
+DateTime:2023-08-21 17:21:39 Mon Info:Function EnmuTabeltDevice CUSBTablet: "\\\\?\\hid#vid_28bd&pid_0928&mi_02#8&2678396c&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}" File:  Line:0  Action:
+DateTime:2023-08-21 17:21:39 Mon Info:Function  LoadConfig success File:  Line:0  Action:
+DateTime:2023-08-21 17:21:39 Mon Info:EnmuTabeltDevice: "Deco mini7W" -- "DecoMini7" File:  Line:0  Action:
+DateTime:2023-08-21 17:21:39 Mon Info:"Deco mini7W" File:  Line:0  Action:
+DateTime:2023-08-21 17:21:39 Mon Info:Function  UpdateUIByAppChange: "Deco mini7W" File:  Line:0  Action:
+DateTime:2023-08-21 21:21:46 Mon Warning:QMetaObject::connectSlotsByName: No matching signal for on_btn_setworkarea_clicked() File:  Line:0  Action:
+DateTime:2023-08-22 00:40:19 Tue Warning:QMetaObject::connectSlotsByName: No matching signal for on_horizontalSlider_tablet_light_valueChanged(int) File:  Line:0  Action:
+DateTime:2023-08-22 00:40:19 Tue Warning:QLayout: Attempting to add QLayout "" to MainWindow "MainWindow", which already has a layout File:  Line:0  Action:
+DateTime:2023-08-22 00:40:22 Tue Info:Function EnmuVisualHidDevice :find the  visual hid device! File:  Line:0  Action:
+DateTime:2023-08-22 00:40:22 Tue Info:SetupDiEnumDeviceInfo CreateFile OK():  File:  Line:0  Action:
+DateTime:2023-08-22 00:40:22 Tue Info:SetupDiEnumDeviceInfo CreateFile SetupDiDestroyDeviceInfoList():  File:  Line:0  Action:
+DateTime:2023-08-22 00:40:22 Tue Info:EnmuVisualHidDevice::Init ok 
+ File:  Line:0  Action:
+DateTime:2023-08-22 00:40:22 Tue Info:Function  EnumDisplay nScreenCount: 2 File:  Line:0  Action:
+DateTime:2023-08-22 00:40:22 Tue Info:Device.AllScreen "All monitor(0,0,5120,1443)" File:  Line:0  Action:
+DateTime:2023-08-22 00:40:22 Tue Info:Device.Screen 1 : "Monitor1(0,0,2560,1440)Primary" File:  Line:0  Action:
+DateTime:2023-08-22 00:40:22 Tue Info:Device.Screen 2 : "Monitor2(2560,3,2560,1440)" File:  Line:0  Action:
+DateTime:2023-08-22 00:40:22 Tue Info:Function EnmuTabeltDevice CUSBTablet: "\\\\?\\hid#vid_28bd&pid_0928&mi_02#8&2678396c&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}" File:  Line:0  Action:
+DateTime:2023-08-22 00:40:22 Tue Info:Function  LoadConfig success File:  Line:0  Action:
+DateTime:2023-08-22 00:40:22 Tue Info:EnmuTabeltDevice: "Deco mini7W" -- "DecoMini7" File:  Line:0  Action:
+DateTime:2023-08-22 00:40:22 Tue Info:"Deco mini7W" File:  Line:0  Action:
+DateTime:2023-08-22 00:40:22 Tue Info:Function  UpdateUIByAppChange: "Deco mini7W" File:  Line:0  Action:
+DateTime:2023-08-22 06:59:51 Tue Warning:QMetaObject::connectSlotsByName: No matching signal for on_horizontalSlider_tablet_light_valueChanged(int) File:  Line:0  Action:
+DateTime:2023-08-22 06:59:51 Tue Warning:QLayout: Attempting to add QLayout "" to MainWindow "MainWindow", which already has a layout File:  Line:0  Action:
+DateTime:2023-08-22 06:59:53 Tue Info:Function EnmuVisualHidDevice :find the  visual hid device! File:  Line:0  Action:
+DateTime:2023-08-22 06:59:53 Tue Info:SetupDiEnumDeviceInfo CreateFile OK():  File:  Line:0  Action:
+DateTime:2023-08-22 06:59:53 Tue Info:SetupDiEnumDeviceInfo CreateFile SetupDiDestroyDeviceInfoList():  File:  Line:0  Action:
+DateTime:2023-08-22 06:59:53 Tue Info:EnmuVisualHidDevice::Init ok 
+ File:  Line:0  Action:
+DateTime:2023-08-22 06:59:53 Tue Info:Function  EnumDisplay nScreenCount: 2 File:  Line:0  Action:
+DateTime:2023-08-22 06:59:53 Tue Info:Device.AllScreen "All monitor(0,0,5120,1443)" File:  Line:0  Action:
+DateTime:2023-08-22 06:59:53 Tue Info:Device.Screen 1 : "Monitor1(0,0,2560,1440)Primary" File:  Line:0  Action:
+DateTime:2023-08-22 06:59:53 Tue Info:Device.Screen 2 : "Monitor2(2560,3,2560,1440)" File:  Line:0  Action:
+DateTime:2023-08-22 06:59:53 Tue Info:Function EnmuTabeltDevice CUSBTablet: "\\\\?\\hid#vid_28bd&pid_0928&mi_02#8&2678396c&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}" File:  Line:0  Action:
+DateTime:2023-08-22 06:59:53 Tue Info:Function  LoadConfig success File:  Line:0  Action:
+DateTime:2023-08-22 06:59:53 Tue Info:EnmuTabeltDevice: "Deco mini7W" -- "DecoMini7" File:  Line:0  Action:
+DateTime:2023-08-22 06:59:53 Tue Info:"Deco mini7W" File:  Line:0  Action:
+DateTime:2023-08-22 06:59:53 Tue Info:Function  UpdateUIByAppChange: "Deco mini7W" File:  Line:0  Action:
+DateTime:2023-08-22 17:31:49 Tue Warning:QMetaObject::connectSlotsByName: No matching signal for on_horizontalSlider_tablet_light_valueChanged(int) File:  Line:0  Action:
+DateTime:2023-08-22 17:31:49 Tue Warning:QLayout: Attempting to add QLayout "" to MainWindow "MainWindow", which already has a layout File:  Line:0  Action:
+DateTime:2023-08-22 17:31:51 Tue Info:Function EnmuVisualHidDevice :find the  visual hid device! File:  Line:0  Action:
+DateTime:2023-08-22 17:31:51 Tue Info:SetupDiEnumDeviceInfo CreateFile OK():  File:  Line:0  Action:
+DateTime:2023-08-22 17:31:51 Tue Info:SetupDiEnumDeviceInfo CreateFile SetupDiDestroyDeviceInfoList():  File:  Line:0  Action:
+DateTime:2023-08-22 17:31:51 Tue Info:EnmuVisualHidDevice::Init ok 
+ File:  Line:0  Action:
+DateTime:2023-08-22 17:31:51 Tue Info:Function  EnumDisplay nScreenCount: 2 File:  Line:0  Action:
+DateTime:2023-08-22 17:31:51 Tue Info:Device.AllScreen "All monitor(0,0,5120,1443)" File:  Line:0  Action:
+DateTime:2023-08-22 17:31:51 Tue Info:Device.Screen 1 : "Monitor1(0,0,2560,1440)Primary" File:  Line:0  Action:
+DateTime:2023-08-22 17:31:51 Tue Info:Device.Screen 2 : "Monitor2(2560,3,2560,1440)" File:  Line:0  Action:
+DateTime:2023-08-22 17:31:51 Tue Info:Function EnmuTabeltDevice CUSBTablet: "\\\\?\\hid#vid_28bd&pid_0928&mi_02#8&2678396c&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}" File:  Line:0  Action:
+DateTime:2023-08-22 17:31:51 Tue Info:Function  LoadConfig success File:  Line:0  Action:
+DateTime:2023-08-22 17:31:51 Tue Info:EnmuTabeltDevice: "Deco mini7W" -- "DecoMini7" File:  Line:0  Action:
+DateTime:2023-08-22 17:31:51 Tue Info:"Deco mini7W" File:  Line:0  Action:
+DateTime:2023-08-22 17:31:51 Tue Info:Function  UpdateUIByAppChange: "Deco mini7W" File:  Line:0  Action:
+DateTime:2023-08-22 19:04:32 Tue Warning:QMetaObject::connectSlotsByName: No matching signal for on_horizontalSlider_tablet_light_valueChanged(int) File:  Line:0  Action:
+DateTime:2023-08-22 19:04:32 Tue Warning:QLayout: Attempting to add QLayout "" to MainWindow "MainWindow", which already has a layout File:  Line:0  Action:
+DateTime:2023-08-22 19:04:33 Tue Info:Function EnmuVisualHidDevice :find the  visual hid device! File:  Line:0  Action:
+DateTime:2023-08-22 19:04:33 Tue Info:SetupDiEnumDeviceInfo CreateFile OK():  File:  Line:0  Action:
+DateTime:2023-08-22 19:04:33 Tue Info:SetupDiEnumDeviceInfo CreateFile SetupDiDestroyDeviceInfoList():  File:  Line:0  Action:
+DateTime:2023-08-22 19:04:33 Tue Info:EnmuVisualHidDevice::Init ok 
+ File:  Line:0  Action:
+DateTime:2023-08-22 19:04:33 Tue Info:Function  EnumDisplay nScreenCount: 2 File:  Line:0  Action:
+DateTime:2023-08-22 19:04:33 Tue Info:Device.AllScreen "All monitor(0,0,5120,1443)" File:  Line:0  Action:
+DateTime:2023-08-22 19:04:33 Tue Info:Device.Screen 1 : "Monitor1(0,0,2560,1440)Primary" File:  Line:0  Action:
+DateTime:2023-08-22 19:04:33 Tue Info:Device.Screen 2 : "Monitor2(2560,3,2560,1440)" File:  Line:0  Action:
+DateTime:2023-08-22 19:04:33 Tue Info:Function EnmuTabeltDevice CUSBTablet: "\\\\?\\hid#vid_28bd&pid_0928&mi_02#8&2678396c&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}" File:  Line:0  Action:
+DateTime:2023-08-22 19:04:33 Tue Info:Function  LoadConfig success File:  Line:0  Action:
+DateTime:2023-08-22 19:04:34 Tue Info:EnmuTabeltDevice: "Deco mini7W" -- "DecoMini7" File:  Line:0  Action:
+DateTime:2023-08-22 19:04:34 Tue Info:"Deco mini7W" File:  Line:0  Action:
+DateTime:2023-08-22 19:04:34 Tue Info:Function  UpdateUIByAppChange: "Deco mini7W" File:  Line:0  Action:
+DateTime:2023-08-22 23:56:44 Tue Info:Function  EnumDisplay nScreenCount: 1 File:  Line:0  Action:
+DateTime:2023-08-22 23:56:44 Tue Info:Device.AllScreen "All monitor(0,0,2560,1440)" File:  Line:0  Action:
+DateTime:2023-08-22 23:56:44 Tue Info:Device.Screen 1 : "Monitor1(0,0,2560,1440)Primary" File:  Line:0  Action:
+DateTime:2023-08-22 23:56:44 Tue Info:Function  EnumDisplay nScreenCount: 2 File:  Line:0  Action:
+DateTime:2023-08-22 23:56:44 Tue Info:Device.AllScreen "All monitor(0,0,5120,1443)" File:  Line:0  Action:
+DateTime:2023-08-22 23:56:44 Tue Info:Device.Screen 1 : "Monitor1(0,0,2560,1440)Primary" File:  Line:0  Action:
+DateTime:2023-08-22 23:56:44 Tue Info:Device.Screen 2 : "Monitor2(2560,3,2560,1440)" File:  Line:0  Action:
+DateTime:2023-08-22 23:56:45 Tue Info:Function  EnumDisplay nScreenCount: 2 File:  Line:0  Action:
+DateTime:2023-08-22 23:56:45 Tue Info:Device.AllScreen "All monitor(0,0,5120,1443)" File:  Line:0  Action:
+DateTime:2023-08-22 23:56:45 Tue Info:Device.Screen 1 : "Monitor1(0,0,2560,1440)Primary" File:  Line:0  Action:
+DateTime:2023-08-22 23:56:45 Tue Info:Device.Screen 2 : "Monitor2(2560,3,2560,1440)" File:  Line:0  Action:
+DateTime:2023-08-22 23:56:46 Tue Info:Function  EnumDisplay nScreenCount: 2 File:  Line:0  Action:
+DateTime:2023-08-22 23:56:46 Tue Info:Device.AllScreen "All monitor(0,0,5120,1443)" File:  Line:0  Action:
+DateTime:2023-08-22 23:56:46 Tue Info:Device.Screen 1 : "Monitor1(0,0,2560,1440)Primary" File:  Line:0  Action:
+DateTime:2023-08-22 23:56:46 Tue Info:Device.Screen 2 : "Monitor2(2560,3,2560,1440)" File:  Line:0  Action:
+DateTime:2023-08-23 07:02:58 Wed Warning:QMetaObject::connectSlotsByName: No matching signal for on_horizontalSlider_tablet_light_valueChanged(int) File:  Line:0  Action:
+DateTime:2023-08-23 07:02:58 Wed Warning:QLayout: Attempting to add QLayout "" to MainWindow "MainWindow", which already has a layout File:  Line:0  Action:
+DateTime:2023-08-23 07:03:01 Wed Info:Function EnmuVisualHidDevice :find the  visual hid device! File:  Line:0  Action:
+DateTime:2023-08-23 07:03:01 Wed Info:SetupDiEnumDeviceInfo CreateFile OK():  File:  Line:0  Action:
+DateTime:2023-08-23 07:03:01 Wed Info:SetupDiEnumDeviceInfo CreateFile SetupDiDestroyDeviceInfoList():  File:  Line:0  Action:
+DateTime:2023-08-23 07:03:01 Wed Info:EnmuVisualHidDevice::Init ok 
+ File:  Line:0  Action:
+DateTime:2023-08-23 07:03:01 Wed Info:Function  EnumDisplay nScreenCount: 2 File:  Line:0  Action:
+DateTime:2023-08-23 07:03:01 Wed Info:Device.AllScreen "All monitor(0,0,5120,1443)" File:  Line:0  Action:
+DateTime:2023-08-23 07:03:01 Wed Info:Device.Screen 1 : "Monitor1(0,0,2560,1440)Primary" File:  Line:0  Action:
+DateTime:2023-08-23 07:03:01 Wed Info:Device.Screen 2 : "Monitor2(2560,3,2560,1440)" File:  Line:0  Action:
+DateTime:2023-08-23 07:03:01 Wed Info:Function EnmuTabeltDevice CUSBTablet: "\\\\?\\hid#vid_28bd&pid_0928&mi_02#8&2678396c&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}" File:  Line:0  Action:
+DateTime:2023-08-23 07:03:01 Wed Info:Function  LoadConfig success File:  Line:0  Action:
+DateTime:2023-08-23 07:03:01 Wed Info:EnmuTabeltDevice: "Deco mini7W" -- "DecoMini7" File:  Line:0  Action:
+DateTime:2023-08-23 07:03:01 Wed Info:"Deco mini7W" File:  Line:0  Action:
+DateTime:2023-08-23 07:03:01 Wed Info:Function  UpdateUIByAppChange: "Deco mini7W" File:  Line:0  Action:
+DateTime:2023-08-23 18:04:15 Wed Warning:QMetaObject::connectSlotsByName: No matching signal for on_horizontalSlider_tablet_light_valueChanged(int) File:  Line:0  Action:
+DateTime:2023-08-23 18:04:15 Wed Warning:QLayout: Attempting to add QLayout "" to MainWindow "MainWindow", which already has a layout File:  Line:0  Action:
+DateTime:2023-08-23 18:04:19 Wed Info:Function EnmuVisualHidDevice :find the  visual hid device! File:  Line:0  Action:
+DateTime:2023-08-23 18:04:19 Wed Info:SetupDiEnumDeviceInfo CreateFile OK():  File:  Line:0  Action:
+DateTime:2023-08-23 18:04:19 Wed Info:SetupDiEnumDeviceInfo CreateFile SetupDiDestroyDeviceInfoList():  File:  Line:0  Action:
+DateTime:2023-08-23 18:04:19 Wed Info:EnmuVisualHidDevice::Init ok 
+ File:  Line:0  Action:
+DateTime:2023-08-23 18:04:19 Wed Info:Function  EnumDisplay nScreenCount: 2 File:  Line:0  Action:
+DateTime:2023-08-23 18:04:19 Wed Info:Device.AllScreen "All monitor(0,0,5120,1443)" File:  Line:0  Action:
+DateTime:2023-08-23 18:04:19 Wed Info:Device.Screen 1 : "Monitor1(0,0,2560,1440)Primary" File:  Line:0  Action:
+DateTime:2023-08-23 18:04:19 Wed Info:Device.Screen 2 : "Monitor2(2560,3,2560,1440)" File:  Line:0  Action:
+DateTime:2023-08-23 18:04:19 Wed Info:Function EnmuTabeltDevice CUSBTablet: "\\\\?\\hid#vid_28bd&pid_0928&mi_02#8&2678396c&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}" File:  Line:0  Action:
+DateTime:2023-08-23 18:04:20 Wed Info:Function  LoadConfig success File:  Line:0  Action:
+DateTime:2023-08-23 18:04:20 Wed Info:EnmuTabeltDevice: "Deco mini7W" -- "DecoMini7" File:  Line:0  Action:
+DateTime:2023-08-23 18:04:20 Wed Info:"Deco mini7W" File:  Line:0  Action:
+DateTime:2023-08-23 18:04:20 Wed Info:Function  UpdateUIByAppChange: "Deco mini7W" File:  Line:0  Action:
+DateTime:2023-08-23 22:58:14 Wed Info:Function  EnumDisplay nScreenCount: 2 File:  Line:0  Action:
+DateTime:2023-08-23 22:58:14 Wed Info:Device.AllScreen "All monitor(0,0,5120,1443)" File:  Line:0  Action:
+DateTime:2023-08-23 22:58:14 Wed Info:Device.Screen 1 : "Monitor1(0,0,2560,1440)Primary" File:  Line:0  Action:
+DateTime:2023-08-23 22:58:14 Wed Info:Device.Screen 2 : "Monitor2(2560,3,2560,1440)" File:  Line:0  Action:
+DateTime:2023-08-23 23:33:50 Wed Warning:QMetaObject::connectSlotsByName: No matching signal for on_horizontalSlider_tablet_light_valueChanged(int) File:  Line:0  Action:
+DateTime:2023-08-23 23:33:50 Wed Warning:QLayout: Attempting to add QLayout "" to MainWindow "MainWindow", which already has a layout File:  Line:0  Action:
+DateTime:2023-08-23 23:33:53 Wed Info:Function EnmuVisualHidDevice :find the  visual hid device! File:  Line:0  Action:
+DateTime:2023-08-23 23:33:53 Wed Info:SetupDiEnumDeviceInfo CreateFile OK():  File:  Line:0  Action:
+DateTime:2023-08-23 23:33:53 Wed Info:SetupDiEnumDeviceInfo CreateFile SetupDiDestroyDeviceInfoList():  File:  Line:0  Action:
+DateTime:2023-08-23 23:33:53 Wed Info:EnmuVisualHidDevice::Init ok 
+ File:  Line:0  Action:
+DateTime:2023-08-23 23:33:53 Wed Info:Function  EnumDisplay nScreenCount: 2 File:  Line:0  Action:
+DateTime:2023-08-23 23:33:53 Wed Info:Device.AllScreen "All monitor(0,0,5120,1443)" File:  Line:0  Action:
+DateTime:2023-08-23 23:33:53 Wed Info:Device.Screen 1 : "Monitor1(0,0,2560,1440)Primary" File:  Line:0  Action:
+DateTime:2023-08-23 23:33:53 Wed Info:Device.Screen 2 : "Monitor2(2560,3,2560,1440)" File:  Line:0  Action:
+DateTime:2023-08-23 23:33:53 Wed Info:Function EnmuTabeltDevice CUSBTablet: "\\\\?\\hid#vid_28bd&pid_0928&mi_02#8&2678396c&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}" File:  Line:0  Action:
+DateTime:2023-08-23 23:33:53 Wed Info:Function  LoadConfig success File:  Line:0  Action:
+DateTime:2023-08-23 23:33:53 Wed Info:EnmuTabeltDevice: "Deco mini7W" -- "DecoMini7" File:  Line:0  Action:
+DateTime:2023-08-23 23:33:53 Wed Info:"Deco mini7W" File:  Line:0  Action:
+DateTime:2023-08-23 23:33:53 Wed Info:Function  UpdateUIByAppChange: "Deco mini7W" File:  Line:0  Action:
+DateTime:2023-08-23 23:35:58 Wed Warning:QMetaObject::connectSlotsByName: No matching signal for on_horizontalSlider_tablet_light_valueChanged(int) File:  Line:0  Action:
+DateTime:2023-08-23 23:35:58 Wed Warning:QLayout: Attempting to add QLayout "" to MainWindow "MainWindow", which already has a layout File:  Line:0  Action:
+DateTime:2023-08-23 23:36:01 Wed Info:Function EnmuVisualHidDevice :find the  visual hid device! File:  Line:0  Action:
+DateTime:2023-08-23 23:36:01 Wed Info:SetupDiEnumDeviceInfo CreateFile OK():  File:  Line:0  Action:
+DateTime:2023-08-23 23:36:01 Wed Info:SetupDiEnumDeviceInfo CreateFile SetupDiDestroyDeviceInfoList():  File:  Line:0  Action:
+DateTime:2023-08-23 23:36:01 Wed Info:EnmuVisualHidDevice::Init ok 
+ File:  Line:0  Action:
+DateTime:2023-08-23 23:36:01 Wed Info:Function  EnumDisplay nScreenCount: 2 File:  Line:0  Action:
+DateTime:2023-08-23 23:36:01 Wed Info:Device.AllScreen "All monitor(0,0,5120,1443)" File:  Line:0  Action:
+DateTime:2023-08-23 23:36:01 Wed Info:Device.Screen 1 : "Monitor1(0,0,2560,1440)Primary" File:  Line:0  Action:
+DateTime:2023-08-23 23:36:01 Wed Info:Device.Screen 2 : "Monitor2(2560,3,2560,1440)" File:  Line:0  Action:
+DateTime:2023-08-23 23:36:01 Wed Info:Function EnmuTabeltDevice CUSBTablet: "\\\\?\\hid#vid_28bd&pid_0928&mi_02#8&2678396c&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}" File:  Line:0  Action:
+DateTime:2023-08-23 23:36:01 Wed Info:Function  LoadConfig success File:  Line:0  Action:
+DateTime:2023-08-23 23:36:01 Wed Info:EnmuTabeltDevice: "Deco mini7W" -- "DecoMini7" File:  Line:0  Action:
+DateTime:2023-08-23 23:36:01 Wed Info:"Deco mini7W" File:  Line:0  Action:
+DateTime:2023-08-23 23:36:01 Wed Info:Function  UpdateUIByAppChange: "Deco mini7W" File:  Line:0  Action:
+DateTime:2023-08-23 23:37:56 Wed Warning:QMetaObject::connectSlotsByName: No matching signal for on_horizontalSlider_tablet_light_valueChanged(int) File:  Line:0  Action:
+DateTime:2023-08-23 23:37:56 Wed Warning:QLayout: Attempting to add QLayout "" to MainWindow "MainWindow", which already has a layout File:  Line:0  Action:
+DateTime:2023-08-23 23:37:58 Wed Info:Function EnmuVisualHidDevice :find the  visual hid device! File:  Line:0  Action:
+DateTime:2023-08-23 23:37:58 Wed Info:SetupDiEnumDeviceInfo CreateFile OK():  File:  Line:0  Action:
+DateTime:2023-08-23 23:37:58 Wed Info:SetupDiEnumDeviceInfo CreateFile SetupDiDestroyDeviceInfoList():  File:  Line:0  Action:
+DateTime:2023-08-23 23:37:58 Wed Info:EnmuVisualHidDevice::Init ok 
+ File:  Line:0  Action:
+DateTime:2023-08-23 23:37:58 Wed Info:Function  EnumDisplay nScreenCount: 2 File:  Line:0  Action:
+DateTime:2023-08-23 23:37:58 Wed Info:Device.AllScreen "All monitor(0,0,5120,1443)" File:  Line:0  Action:
+DateTime:2023-08-23 23:37:58 Wed Info:Device.Screen 1 : "Monitor1(0,0,2560,1440)Primary" File:  Line:0  Action:
+DateTime:2023-08-23 23:37:58 Wed Info:Device.Screen 2 : "Monitor2(2560,3,2560,1440)" File:  Line:0  Action:
+DateTime:2023-08-23 23:37:58 Wed Info:Function EnmuTabeltDevice CUSBTablet: "\\\\?\\hid#vid_28bd&pid_0928&mi_02#8&2678396c&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}" File:  Line:0  Action:
+DateTime:2023-08-23 23:37:58 Wed Info:Function  LoadConfig success File:  Line:0  Action:
+DateTime:2023-08-23 23:37:58 Wed Info:EnmuTabeltDevice: "Deco mini7W" -- "DecoMini7" File:  Line:0  Action:
+DateTime:2023-08-23 23:37:58 Wed Info:"Deco mini7W" File:  Line:0  Action:
+DateTime:2023-08-23 23:37:58 Wed Info:Function  UpdateUIByAppChange: "Deco mini7W" File:  Line:0  Action:
+DateTime:2023-08-27 19:29:38 Sun Warning:QMetaObject::connectSlotsByName: No matching signal for on_horizontalSlider_tablet_light_valueChanged(int) File:  Line:0  Action:
+DateTime:2023-08-27 19:29:38 Sun Warning:QLayout: Attempting to add QLayout "" to MainWindow "MainWindow", which already has a layout File:  Line:0  Action:
+DateTime:2023-08-27 19:29:39 Sun Info:Function EnmuVisualHidDevice :find the  visual hid device! File:  Line:0  Action:
+DateTime:2023-08-27 19:29:39 Sun Info:SetupDiEnumDeviceInfo CreateFile OK():  File:  Line:0  Action:
+DateTime:2023-08-27 19:29:39 Sun Info:SetupDiEnumDeviceInfo CreateFile SetupDiDestroyDeviceInfoList():  File:  Line:0  Action:
+DateTime:2023-08-27 19:29:39 Sun Info:EnmuVisualHidDevice::Init ok 
+ File:  Line:0  Action:
+DateTime:2023-08-27 19:29:39 Sun Info:Function  EnumDisplay nScreenCount: 2 File:  Line:0  Action:
+DateTime:2023-08-27 19:29:39 Sun Info:Device.AllScreen "All monitor(0,0,5120,1443)" File:  Line:0  Action:
+DateTime:2023-08-27 19:29:39 Sun Info:Device.Screen 1 : "Monitor1(0,0,2560,1440)Primary" File:  Line:0  Action:
+DateTime:2023-08-27 19:29:39 Sun Info:Device.Screen 2 : "Monitor2(2560,3,2560,1440)" File:  Line:0  Action:
+DateTime:2023-08-27 19:29:39 Sun Info:Function EnmuTabeltDevice CUSBTablet: "\\\\?\\hid#vid_28bd&pid_0928&mi_02#8&2678396c&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}" File:  Line:0  Action:
+DateTime:2023-08-27 19:29:39 Sun Info:Function  LoadConfig success File:  Line:0  Action:
+DateTime:2023-08-27 19:29:39 Sun Info:EnmuTabeltDevice: "Deco mini7W" -- "DecoMini7" File:  Line:0  Action:
+DateTime:2023-08-27 19:29:39 Sun Info:"Deco mini7W" File:  Line:0  Action:
+DateTime:2023-08-27 19:29:39 Sun Info:Function  UpdateUIByAppChange: "Deco mini7W" File:  Line:0  Action:
+DateTime:2023-08-27 22:36:34 Sun Warning:QMetaObject::connectSlotsByName: No matching signal for on_pushButton_clicked(bool) File:  Line:0  Action:
+DateTime:2023-08-27 22:36:38 Sun Warning:QMetaObject::connectSlotsByName: No matching signal for on_pushButton_clicked(bool) File:  Line:0  Action:
+DateTime:2023-08-27 22:37:11 Sun Warning:QMetaObject::connectSlotsByName: No matching signal for on_pushButton_clicked(bool) File:  Line:0  Action:
+DateTime:2023-08-28 13:53:18 Mon Warning:QMetaObject::connectSlotsByName: No matching signal for on_horizontalSlider_tablet_light_valueChanged(int) File:  Line:0  Action:
+DateTime:2023-08-28 13:53:18 Mon Warning:QLayout: Attempting to add QLayout "" to MainWindow "MainWindow", which already has a layout File:  Line:0  Action:
+DateTime:2023-08-28 13:53:19 Mon Info:Function EnmuVisualHidDevice :find the  visual hid device! File:  Line:0  Action:
+DateTime:2023-08-28 13:53:19 Mon Info:SetupDiEnumDeviceInfo CreateFile OK():  File:  Line:0  Action:
+DateTime:2023-08-28 13:53:19 Mon Info:SetupDiEnumDeviceInfo CreateFile SetupDiDestroyDeviceInfoList():  File:  Line:0  Action:
+DateTime:2023-08-28 13:53:19 Mon Info:EnmuVisualHidDevice::Init ok 
+ File:  Line:0  Action:
+DateTime:2023-08-28 13:53:19 Mon Info:Function  EnumDisplay nScreenCount: 2 File:  Line:0  Action:
+DateTime:2023-08-28 13:53:19 Mon Info:Device.AllScreen "All monitor(0,0,5120,1443)" File:  Line:0  Action:
+DateTime:2023-08-28 13:53:19 Mon Info:Device.Screen 1 : "Monitor1(0,0,2560,1440)Primary" File:  Line:0  Action:
+DateTime:2023-08-28 13:53:19 Mon Info:Device.Screen 2 : "Monitor2(2560,3,2560,1440)" File:  Line:0  Action:
+DateTime:2023-08-28 13:53:19 Mon Info:Function EnmuTabeltDevice CUSBTablet: "\\\\?\\hid#vid_28bd&pid_0928&mi_02#8&39b695ca&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}" File:  Line:0  Action:
+DateTime:2023-08-28 13:53:19 Mon Info:Function  LoadConfig success File:  Line:0  Action:
+DateTime:2023-08-28 13:53:19 Mon Info:EnmuTabeltDevice: "Deco mini7W" -- "DecoMini7" File:  Line:0  Action:
+DateTime:2023-08-28 13:53:19 Mon Info:"Deco mini7W" File:  Line:0  Action:
+DateTime:2023-08-28 13:53:19 Mon Info:Function  UpdateUIByAppChange: "Deco mini7W" File:  Line:0  Action:
+DateTime:2023-08-28 15:50:41 Mon Info:onResetWorkAreaDefaultSetting File:  Line:0  Action:
+DateTime:2023-08-28 15:50:41 Mon Info:Function  EnumDisplay nScreenCount: 2 File:  Line:0  Action:
+DateTime:2023-08-28 15:50:41 Mon Info:Device.AllScreen "All monitor(0,0,5120,1443)" File:  Line:0  Action:
+DateTime:2023-08-28 15:50:41 Mon Info:Device.Screen 1 : "Monitor1(0,0,2560,1440)Primary" File:  Line:0  Action:
+DateTime:2023-08-28 15:50:41 Mon Info:Device.Screen 2 : "Monitor2(2560,3,2560,1440)" File:  Line:0  Action:
+DateTime:2023-08-31 21:57:52 Thu Warning:QMetaObject::connectSlotsByName: No matching signal for on_horizontalSlider_tablet_light_valueChanged(int) File:  Line:0  Action:
+DateTime:2023-08-31 21:57:52 Thu Warning:QLayout: Attempting to add QLayout "" to MainWindow "MainWindow", which already has a layout File:  Line:0  Action:
+DateTime:2023-08-31 21:57:52 Thu Info:Function EnmuVisualHidDevice :find the  visual hid device! File:  Line:0  Action:
+DateTime:2023-08-31 21:57:52 Thu Info:SetupDiEnumDeviceInfo CreateFile OK():  File:  Line:0  Action:
+DateTime:2023-08-31 21:57:52 Thu Info:SetupDiEnumDeviceInfo CreateFile SetupDiDestroyDeviceInfoList():  File:  Line:0  Action:
+DateTime:2023-08-31 21:57:52 Thu Info:EnmuVisualHidDevice::Init ok 
+ File:  Line:0  Action:
+DateTime:2023-08-31 21:57:53 Thu Info:Function  EnumDisplay nScreenCount: 2 File:  Line:0  Action:
+DateTime:2023-08-31 21:57:53 Thu Info:Device.AllScreen "All monitor(0,0,5120,1443)" File:  Line:0  Action:
+DateTime:2023-08-31 21:57:53 Thu Info:Device.Screen 1 : "Monitor1(0,0,2560,1440)Primary" File:  Line:0  Action:
+DateTime:2023-08-31 21:57:53 Thu Info:Device.Screen 2 : "Monitor2(2560,3,2560,1440)" File:  Line:0  Action:
+DateTime:2023-08-31 21:57:53 Thu Info:Function EnmuTabeltDevice CUSBTablet: "\\\\?\\hid#vid_28bd&pid_0928&mi_02#8&6787cc4&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}" File:  Line:0  Action:
+DateTime:2023-08-31 21:57:53 Thu Info:Function  LoadConfig success File:  Line:0  Action:
+DateTime:2023-08-31 21:57:53 Thu Info:EnmuTabeltDevice: "Deco mini7W" -- "DecoMini7" File:  Line:0  Action:
+DateTime:2023-08-31 21:57:53 Thu Info:"Deco mini7W" File:  Line:0  Action:
+DateTime:2023-08-31 21:57:53 Thu Info:Function  UpdateUIByAppChange: "Deco mini7W" File:  Line:0  Action:
+DateTime:2023-09-02 22:17:51 Sat Warning:QMetaObject::connectSlotsByName: No matching signal for on_horizontalSlider_tablet_light_valueChanged(int) File:  Line:0  Action:
+DateTime:2023-09-02 22:17:51 Sat Warning:QLayout: Attempting to add QLayout "" to MainWindow "MainWindow", which already has a layout File:  Line:0  Action:
+DateTime:2023-09-02 22:17:52 Sat Info:Function EnmuVisualHidDevice :find the  visual hid device! File:  Line:0  Action:
+DateTime:2023-09-02 22:17:52 Sat Info:SetupDiEnumDeviceInfo CreateFile OK():  File:  Line:0  Action:
+DateTime:2023-09-02 22:17:52 Sat Info:SetupDiEnumDeviceInfo CreateFile SetupDiDestroyDeviceInfoList():  File:  Line:0  Action:
+DateTime:2023-09-02 22:17:52 Sat Info:EnmuVisualHidDevice::Init ok 
+ File:  Line:0  Action:
+DateTime:2023-09-02 22:17:52 Sat Info:Function  EnumDisplay nScreenCount: 2 File:  Line:0  Action:
+DateTime:2023-09-02 22:17:52 Sat Info:Device.AllScreen "All monitor(0,0,5120,1443)" File:  Line:0  Action:
+DateTime:2023-09-02 22:17:52 Sat Info:Device.Screen 1 : "Monitor1(0,0,2560,1440)Primary" File:  Line:0  Action:
+DateTime:2023-09-02 22:17:52 Sat Info:Device.Screen 2 : "Monitor2(2560,3,2560,1440)" File:  Line:0  Action:
+DateTime:2023-09-02 22:17:52 Sat Info:Function EnmuTabeltDevice CUSBTablet: "\\\\?\\hid#vid_28bd&pid_0928&mi_02#8&6787cc4&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}" File:  Line:0  Action:
+DateTime:2023-09-02 22:17:52 Sat Info:Function  LoadConfig success File:  Line:0  Action:
+DateTime:2023-09-02 22:17:52 Sat Info:EnmuTabeltDevice: "Deco mini7W" -- "DecoMini7" File:  Line:0  Action:
+DateTime:2023-09-02 22:17:52 Sat Info:"Deco mini7W" File:  Line:0  Action:
+DateTime:2023-09-02 22:17:52 Sat Info:Function  UpdateUIByAppChange: "Deco mini7W" File:  Line:0  Action:
+DateTime:2023-09-03 10:14:41 Sun Warning:QMetaObject::connectSlotsByName: No matching signal for on_horizontalSlider_tablet_light_valueChanged(int) File:  Line:0  Action:
+DateTime:2023-09-03 10:14:41 Sun Warning:QLayout: Attempting to add QLayout "" to MainWindow "MainWindow", which already has a layout File:  Line:0  Action:
+DateTime:2023-09-03 10:14:41 Sun Info:Function EnmuVisualHidDevice :find the  visual hid device! File:  Line:0  Action:
+DateTime:2023-09-03 10:14:41 Sun Info:SetupDiEnumDeviceInfo CreateFile OK():  File:  Line:0  Action:
+DateTime:2023-09-03 10:14:41 Sun Info:SetupDiEnumDeviceInfo CreateFile SetupDiDestroyDeviceInfoList():  File:  Line:0  Action:
+DateTime:2023-09-03 10:14:41 Sun Info:EnmuVisualHidDevice::Init ok 
+ File:  Line:0  Action:
+DateTime:2023-09-03 10:14:42 Sun Info:Function  EnumDisplay nScreenCount: 2 File:  Line:0  Action:
+DateTime:2023-09-03 10:14:42 Sun Info:Device.AllScreen "All monitor(-2560,-2,5120,1442)" File:  Line:0  Action:
+DateTime:2023-09-03 10:14:42 Sun Info:Device.Screen 1 : "Monitor1(-2560,-2,2560,1440)" File:  Line:0  Action:
+DateTime:2023-09-03 10:14:42 Sun Info:Device.Screen 2 : "Monitor2(0,0,2560,1440)Primary" File:  Line:0  Action:
+DateTime:2023-09-03 10:14:42 Sun Info:Function EnmuTabeltDevice CUSBTablet: "\\\\?\\hid#vid_28bd&pid_0928&mi_02#8&6787cc4&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}" File:  Line:0  Action:
+DateTime:2023-09-03 10:14:42 Sun Info:Function  LoadConfig success File:  Line:0  Action:
+DateTime:2023-09-03 10:14:42 Sun Info:EnmuTabeltDevice: "Deco mini7W" -- "DecoMini7" File:  Line:0  Action:
+DateTime:2023-09-03 10:14:42 Sun Info:"Deco mini7W" File:  Line:0  Action:
+DateTime:2023-09-03 10:14:42 Sun Info:Function  UpdateUIByAppChange: "Deco mini7W" File:  Line:0  Action:
+DateTime:2023-09-11 23:05:09 Mon Warning:QMetaObject::connectSlotsByName: No matching signal for on_horizontalSlider_tablet_light_valueChanged(int) File:  Line:0  Action:
+DateTime:2023-09-11 23:05:09 Mon Warning:QLayout: Attempting to add QLayout "" to MainWindow "MainWindow", which already has a layout File:  Line:0  Action:
+DateTime:2023-09-11 23:05:10 Mon Info:Function EnmuVisualHidDevice :find the  visual hid device! File:  Line:0  Action:
+DateTime:2023-09-11 23:05:10 Mon Info:SetupDiEnumDeviceInfo CreateFile OK():  File:  Line:0  Action:
+DateTime:2023-09-11 23:05:10 Mon Info:SetupDiEnumDeviceInfo CreateFile SetupDiDestroyDeviceInfoList():  File:  Line:0  Action:
+DateTime:2023-09-11 23:05:10 Mon Info:EnmuVisualHidDevice::Init ok 
+ File:  Line:0  Action:
+DateTime:2023-09-11 23:05:10 Mon Info:Function  EnumDisplay nScreenCount: 2 File:  Line:0  Action:
+DateTime:2023-09-11 23:05:10 Mon Info:Device.AllScreen "All monitor(-2560,-2,5120,1442)" File:  Line:0  Action:
+DateTime:2023-09-11 23:05:10 Mon Info:Device.Screen 1 : "Monitor1(-2560,-2,2560,1440)" File:  Line:0  Action:
+DateTime:2023-09-11 23:05:10 Mon Info:Device.Screen 2 : "Monitor2(0,0,2560,1440)Primary" File:  Line:0  Action:
+DateTime:2023-09-11 23:05:10 Mon Info:Function EnmuTabeltDevice CUSBTablet: "\\\\?\\hid#vid_28bd&pid_0928&mi_02#8&6787cc4&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}" File:  Line:0  Action:
+DateTime:2023-09-11 23:05:10 Mon Info:Function  LoadConfig success File:  Line:0  Action:
+DateTime:2023-09-11 23:05:10 Mon Info:EnmuTabeltDevice: "Deco mini7W" -- "DecoMini7" File:  Line:0  Action:
+DateTime:2023-09-11 23:05:10 Mon Info:"Deco mini7W" File:  Line:0  Action:
+DateTime:2023-09-11 23:05:10 Mon Info:Function  UpdateUIByAppChange: "Deco mini7W" File:  Line:0  Action:
+DateTime:2023-09-14 19:44:25 Thu Warning:QMetaObject::connectSlotsByName: No matching signal for on_horizontalSlider_tablet_light_valueChanged(int) File:  Line:0  Action:
+DateTime:2023-09-14 19:44:25 Thu Warning:QLayout: Attempting to add QLayout "" to MainWindow "MainWindow", which already has a layout File:  Line:0  Action:
+DateTime:2023-09-14 19:44:25 Thu Info:Function EnmuVisualHidDevice :find the  visual hid device! File:  Line:0  Action:
+DateTime:2023-09-14 19:44:25 Thu Info:SetupDiEnumDeviceInfo CreateFile OK():  File:  Line:0  Action:
+DateTime:2023-09-14 19:44:25 Thu Info:SetupDiEnumDeviceInfo CreateFile SetupDiDestroyDeviceInfoList():  File:  Line:0  Action:
+DateTime:2023-09-14 19:44:25 Thu Info:EnmuVisualHidDevice::Init ok 
+ File:  Line:0  Action:
+DateTime:2023-09-14 19:44:25 Thu Info:Function  EnumDisplay nScreenCount: 2 File:  Line:0  Action:
+DateTime:2023-09-14 19:44:25 Thu Info:Device.AllScreen "All monitor(-2560,-2,5120,1442)" File:  Line:0  Action:
+DateTime:2023-09-14 19:44:25 Thu Info:Device.Screen 1 : "Monitor1(-2560,-2,2560,1440)" File:  Line:0  Action:
+DateTime:2023-09-14 19:44:25 Thu Info:Device.Screen 2 : "Monitor2(0,0,2560,1440)Primary" File:  Line:0  Action:
+DateTime:2023-09-14 19:44:25 Thu Info:Function EnmuTabeltDevice CUSBTablet: "\\\\?\\hid#vid_28bd&pid_0928&mi_02#8&6787cc4&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}" File:  Line:0  Action:
+DateTime:2023-09-14 19:44:25 Thu Info:Function  LoadConfig success File:  Line:0  Action:
+DateTime:2023-09-14 19:44:26 Thu Info:EnmuTabeltDevice: "Deco mini7W" -- "DecoMini7" File:  Line:0  Action:
+DateTime:2023-09-14 19:44:26 Thu Info:"Deco mini7W" File:  Line:0  Action:
+DateTime:2023-09-14 19:44:26 Thu Info:Function  UpdateUIByAppChange: "Deco mini7W" File:  Line:0  Action:
+DateTime:2023-09-14 20:51:56 Thu Info:SentCmd-- 2 File:  Line:0  Action:
+DateTime:2023-09-14 20:51:56 Thu Info:PentableV3 Closed. File:  Line:0  Action:
+DateTime:2023-09-23 08:07:08 Sat Warning:QMetaObject::connectSlotsByName: No matching signal for on_horizontalSlider_tablet_light_valueChanged(int) File:  Line:0  Action:
+DateTime:2023-09-23 08:07:08 Sat Warning:QLayout: Attempting to add QLayout "" to MainWindow "MainWindow", which already has a layout File:  Line:0  Action:
+DateTime:2023-09-23 08:07:08 Sat Info:Function EnmuVisualHidDevice :find the  visual hid device! File:  Line:0  Action:
+DateTime:2023-09-23 08:07:08 Sat Info:SetupDiEnumDeviceInfo CreateFile OK():  File:  Line:0  Action:
+DateTime:2023-09-23 08:07:08 Sat Info:SetupDiEnumDeviceInfo CreateFile SetupDiDestroyDeviceInfoList():  File:  Line:0  Action:
+DateTime:2023-09-23 08:07:08 Sat Info:EnmuVisualHidDevice::Init ok 
+ File:  Line:0  Action:
+DateTime:2023-09-23 08:07:08 Sat Info:Function  EnumDisplay nScreenCount: 2 File:  Line:0  Action:
+DateTime:2023-09-23 08:07:08 Sat Info:Device.AllScreen "All monitor(-2560,-2,5120,1442)" File:  Line:0  Action:
+DateTime:2023-09-23 08:07:08 Sat Info:Device.Screen 1 : "Monitor1(-2560,-2,2560,1440)" File:  Line:0  Action:
+DateTime:2023-09-23 08:07:08 Sat Info:Device.Screen 2 : "Monitor2(0,0,2560,1440)Primary" File:  Line:0  Action:
+DateTime:2023-09-23 08:07:08 Sat Info:Function EnmuTabeltDevice CUSBTablet: "\\\\?\\hid#vid_28bd&pid_0928&mi_02#8&6787cc4&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}" File:  Line:0  Action:
+DateTime:2023-09-23 08:07:09 Sat Info:Function  LoadConfig success File:  Line:0  Action:
+DateTime:2023-09-23 08:07:09 Sat Info:EnmuTabeltDevice: "Deco mini7W" -- "DecoMini7" File:  Line:0  Action:
+DateTime:2023-09-23 08:07:09 Sat Info:"Deco mini7W" File:  Line:0  Action:
+DateTime:2023-09-23 08:07:09 Sat Info:Function  UpdateUIByAppChange: "Deco mini7W" File:  Line:0  Action:
+DateTime:2023-09-30 10:36:41 Sat Warning:QMetaObject::connectSlotsByName: No matching signal for on_horizontalSlider_tablet_light_valueChanged(int) File:  Line:0  Action:
+DateTime:2023-09-30 10:36:41 Sat Warning:QLayout: Attempting to add QLayout "" to MainWindow "MainWindow", which already has a layout File:  Line:0  Action:
+DateTime:2023-09-30 10:36:42 Sat Info:Function EnmuVisualHidDevice :find the  visual hid device! File:  Line:0  Action:
+DateTime:2023-09-30 10:36:42 Sat Info:SetupDiEnumDeviceInfo CreateFile OK():  File:  Line:0  Action:
+DateTime:2023-09-30 10:36:42 Sat Info:SetupDiEnumDeviceInfo CreateFile SetupDiDestroyDeviceInfoList():  File:  Line:0  Action:
+DateTime:2023-09-30 10:36:42 Sat Info:EnmuVisualHidDevice::Init ok 
+ File:  Line:0  Action:
+DateTime:2023-09-30 10:36:42 Sat Info:Function  EnumDisplay nScreenCount: 2 File:  Line:0  Action:
+DateTime:2023-09-30 10:36:42 Sat Info:Device.AllScreen "All monitor(-2560,-2,5120,1442)" File:  Line:0  Action:
+DateTime:2023-09-30 10:36:42 Sat Info:Device.Screen 1 : "Monitor1(-2560,-2,2560,1440)" File:  Line:0  Action:
+DateTime:2023-09-30 10:36:42 Sat Info:Device.Screen 2 : "Monitor2(0,0,2560,1440)Primary" File:  Line:0  Action:
+DateTime:2023-09-30 10:36:42 Sat Info:Function EnmuTabeltDevice CUSBTablet: "\\\\?\\hid#vid_28bd&pid_0928&mi_02#8&6787cc4&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}" File:  Line:0  Action:
+DateTime:2023-09-30 10:36:42 Sat Info:Function  LoadConfig success File:  Line:0  Action:
+DateTime:2023-09-30 10:36:42 Sat Info:EnmuTabeltDevice: "Deco mini7W" -- "DecoMini7" File:  Line:0  Action:
+DateTime:2023-09-30 10:36:42 Sat Info:"Deco mini7W" File:  Line:0  Action:
+DateTime:2023-09-30 10:36:42 Sat Info:Function  UpdateUIByAppChange: "Deco mini7W" File:  Line:0  Action:
+DateTime:2023-09-30 10:36:59 Sat Info:SentCmd-- 2 File:  Line:0  Action:
+DateTime:2023-09-30 10:36:59 Sat Info:PentableV3 Closed. File:  Line:0  Action:
