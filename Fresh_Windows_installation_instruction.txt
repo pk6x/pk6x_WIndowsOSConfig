@@ -1,0 +1,75 @@
+# First update Windows, Microsoft Apps, and drivers 
+
+# Turn hibernation off
+
+# Extend Windows searhing index
+
+# Install visual-c-runime
+
+/****************
+# Install winget packages
+
+winget install --id Microsoft.VisualStudio.2022.Community &&
+winget install --id ShareX.ShareX &&
+winget install --id Argotronic.ArgusMonitor &&
+winget install --id Piriform.CCleaner.ProTrial &&
+winget install --id Git.Git &&
+winget install --id Tonec.InternetDownloadManager &&
+winget install --id JanDeDobbeleer.OhMyPosh &&
+winget install --id SublimeHQ.SublimeText.4 &&
+winget install --id vim.vim &&
+winget install --id WinDirStat.WinDirStat &&
+winget install --id qBittorrent.qBittorrent &&
+winget install --id 7zip.7zip &&
+winget install --id Python.Python.3.11 &&
+winget install --id Microsoft.PowerToys &&
+winget install --id Google.Drive &&
+winget install --id voidtools.Everything &&
+winget install --id Adobe.Acrobat.Reader.64-bit &&
+winget install --id VideoLAN.VLC &&
+winget install --id Nvidia.GeForceExperience
+*****************/
+
+
+Fusion 360
+Epic launcher
+Private internet access
+Move folders to C:\Program Files dir
+Install ptime
+set the EV (environment variables)
+
+
+/*************
+# oh-my-posh:
+#Open the pwsh terminal and start typing...
+
+New-Item -Path $PROFILE -Type File -Force
+
+oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH\zash.omp.json" | Invoke-Expression
+
+Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+OR
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+AND
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+
+. $PROFILE
+*************/
+
+/************
+#sublime gist id
+{
+	"access_token": "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",
+	"gist_id": "7942fadd3e079f63f74e1b3ee3508fd7",
+}
+************/
+
+# Generate and add SSH key to github account
+
+# Register to IDM
+tJ6ve-6d9m7-ydwxb-4rpiq
+
+# Install WSL
+
+
+
