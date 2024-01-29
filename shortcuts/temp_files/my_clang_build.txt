@@ -1,0 +1,251 @@
+--------------------------------------------------------------------------------
+---------WELCOME TO MY CLANG BUILD SYSTEM FOR .exe FILE TYPE ON WINDOWS---------
+--------------------------------------------------------------------------------
+
+
+## LLVM-clang C/C++ Compiler/Linker AND-
+
+## MSVC-cl C/C++ Compiler/Linker options.
+
+## Be aware, if decided to use MSVC toolset, then the commands must be executed using not the normal cmd.exe or powershell.exe but rather the MSVC own command shell "Developer Command Prompt for VS XXXX" or "Developer PowerShell for VS 2022" or "x64 Native Tools Command Prompt for VS 2022" or "x86 Native Tools Command Prompt for VS 2022". Then run "vcvars32 or 64 or all".bat script to set all necessary vars + initialise your build environmernt for ether 32 or 64 bit system architecture.
+* 
+*
+*
+*
+*
+*
+*
+---------------------------------- DLL BUILD -----------------------------------
+--------------------------------------------------------------------------------
+
+
+## Using LLVM-clang
+
+> clang++ -D<define macro> -D<define macro> -shared <source filename.cpp>
+
+> clang++ -DWINDOWS_PLATFORM -DBUILD_MY_DLL -shared SourceFile.cpp
+
+OR
+
+> clang++ -D<define macro> -D<define macro> -shared <source filename.cpp> -o <desired library name>
+
+> clang++ -DWINDOWS_PLATFORM -DBUILD_MY_DLL -shared SourceFile.cpp -o <LibraryName.dll>
+
+--------------------------------------------------------------------------------
+// -D<macro> ---- defines preprocessor macros or directives. 
+// -shared ---- builds a shared library file (static or dynamic) (.dll + .lib in Windows).
+// -o ---- name object files (.obj, .dll, .exp, .lib). In Windows, -o must type ".dll" (filename.dll) to produce DLL file.
+--------------------------------------------------------------------------------
+
+## Using MSVC-cl 
+
+> cl /D<define macro> /D<define macro> /LD <source filename.cpp>
+
+> cl /DWINDOW_PLATFORM /DBUILD_MY_DLL /LD SourceFile.cpp
+
+OR
+
+> cl /D<define macro> /D<define macro> /LD <source filename.cpp> /Fo:"<desired file name>"
+
+> cl /DWINDOWS_PLATFORM /DBUILD_MY_DLL SourceFile.cpp /LD /Fo:"LibraryName"
+
+--------------------------------------------------------------------------------
+// /D<macro> ---- defines preprocessor macros or directives. 
+// /LD ---- builds a shared library file (static or dynamic) (.dll + .lib in Windows).
+// /Fo:"<desired file name>" ---- name all object files (.obj, .dll, .exp, .lib).
+--------------------------------------------------------------------------------
+* 
+*
+------------------------- LINK AGAINST DYNAMIC LIBRARY -------------------------
+--------------------------------------------------------------------------------
+
+
+## Using LLVM-clang
+
+> clang++ -D<macro> <source file name.cpp> -l<libraryName.lib or .a>
+
+> clang++ -DWINDOWS_PLATFORM SourceFile.cpp -lLibraryName
+
+OR
+
+> clang++ -D<macro> <source file name.cpp> -o <desired file name.exe> -l<libraryName.lib or .a>
+
+> clang++ -DWINDOWS_PLATFORM SourceFile.cpp -o ExecutableName.exe -lLibraryName
+
+--------------------------------------------------------------------------------
+// -l ---- Links to libraries.
+// -l ---- Linker option has two different alternatives:
+--------------------------------------------------------------------------------
+
+## Using MSVC-cl
+
+> cl /D<macro> <source file name.cpp> <libraryName.lib or .a>
+
+> cl /DWINDOWS_PLATFORM SourceFile.cpp LibraryName.lib
+
+OR
+
+> cl /D<macro> <source file name.cpp> /Fe:"<desired file name>" <libraryName.lib or .a>
+
+> cl /DWINDOWS_PLATFORM SourceFile.cpp /Fe:"ExecutableName" LibraryName.lib
+
+--------------------------------------------------------------------------------
+// Fe:"<desire file name>" ---- name executable file
+--------------------------------------------------------------------------------
+*
+*
+*
+*
+*
+*
+*
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+
+## Other useful/frequent used options: (MSVC-cl option equivalent in ())
+
+// -I<dir> (/I:"dir") ---- includes directory for other source files. 
+
+// -L<dir> (/LIBPATH:"dir") ---- search for specific libraries directories
+
+// -implib (/IMPLIB) ---- overrides the default import library name (-implib:filename) and --out-implib
+
+// /OUT:"Dir/name the file" OR /OUT:"Name the file" ---- useful naming option
+
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+* 
+*
+*
+*
+*
+*
+*
+--------------------------------- STATIC BUILD ---------------------------------
+--------------------------------------------------------------------------------
+
+// First, compile source file(s) into object files without linking produce object files only (.obj in Windows) or (.o in Linux and OSX)
+
+
+## Using LVLM-clang
+
+> clang++ -c <source filename.cpp> -fPIC
+
+> clang++ -c SourceFile.cpp // SourceFile.cpp -> ObjectFile.obj
+
+OR
+
+> clang++ -c <source filename.cpp> -fPIC -o <desired filename.obj or .o>
+
+> clang++ -c SourceFile.cpp -o NewName.obj
+
+--------------------------------------------------------------------------------
+// -c compiles without linking results in object file.
+--------------------------------------------------------------------------------
+
+> llvm-lib <object filename.obj> <object filename2.obj> 
+
+> llvm-lib ObjectFile.obj ObjectFile2.obj 
+
+OR
+
+> llvm-lib <object filename(s).obj> -o <desired library name.lib or .a>
+
+> llvm-lib ObjectFile1.obj ObjectFile2.obj -o MyStaticLib.lib or .a
+
+--------------------------------------------------------------------------------
+// llvm-lib ---- thin archiving object file(s) into one single static library.
+--------------------------------------------------------------------------------
+
+## Using MSVC-cl
+
+> cl /c <source filename.cpp> 
+
+> cl /c SourceFile.cpp
+
+OR
+
+> cl /c <source filename.cpp> /OUT:<desired filename.obj or .o>
+
+> cl /c SoureFile.cpp /OUT:"NewName.obj"
+
+--------------------------------------------------------------------------------
+// /c ---- compiles without linking results in object file.
+--------------------------------------------------------------------------------
+
+> lib or LIB <object filename.obj or .o> <object filename> /OUT:"name of the library.lib"
+
+> lib ObjectName.obj Object2.obj /OUT:"StaticLibrary.lib"
+
+--------------------------------------------------------------------------------
+// lib ---- thin archiving object file(s) into one single static library.
+--------------------------------------------------------------------------------
+* 
+*
+------------------------- LINK AGAINST STATIC LIBRARY --------------------------
+--------------------------------------------------------------------------------
+
+
+## Using LLVM-clang
+
+> clang++ <source file name.cpp> -L<Dir to library> -l<library1> -l<library2>
+
+> clang++ SourceFile.cpp -L"C:\Dev\Libs" -lLibrary1 -lLibrary2 
+
+--------------------------------------------------------------------------------
+// -L<dir> ---- necessary to specify a dir which has more than one static library file for are needed for linking.
+
+// Be aware that static libraries file type differ from platfomrs. Windows is .lib and .a in Linux or OSX.
+--------------------------------------------------------------------------------
+
+## Using MSVC-cl
+
+> cl <source file name.cpp> /link /LIBPATH:<Dir to library> "Library1" "Library2"
+
+> cl SourceFile.cpp /link /LIBPATH:"C:\Dev\Libs" "Library1" "Library2"
+
+--------------------------------------------------------------------------------
+// /link ---- invokes the MSVC linker. A must before any linking options
+
+// /LIBPATH<dir> ---- necessary to specify a dir which has more than one static library file for are needed for linking.
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+* 
+*
+*
+*
+*
+*
+*
+------- LLVM-clang Build system for Windows Platform using Sublime Text --------
+--------------------------------------------------------------------------------
+
+{
+	"shell_cmd": "clang++ \"${file}\" -o \"${file_path}/${file_base_name}\"",
+	"file_regex": "^(..[^:]*):([0-9]+):?([0-9]+)?:? (.*)$",
+	"working_dir": "${file_path}",
+	"selector": "source.c++, source.cpp, source.c",
+
+	"variants":
+	[
+		{
+			"name": "Windows(Run)",
+			"shell_cmd": "clang++ \"${file}\" -o \"${file_path}/${file_base_name}.exe\" && \"${file_path}/${file_base_name}\""
+		},
+
+		{
+			"name": "Windows(DLLBuild)",
+			"shell_cmd": "clang++ -DWINDOWS_PLATFORM -DBUILD_MY_DLL -shared \"${file}\" -o \"${file_path}/${file_base_name}.dll" 
+		},
+
+		{
+			"name": "Window(LibLinking+Run)",
+			"shell_cmd": "clang++ -DWINDOWS_PLATFORM \"${file}\" -o \"${file_path}/${file_base_name}.exe\" -l\"*.lib\" && \"${file_path}/${file_base_name}\""
+		}
+	]
+}
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------

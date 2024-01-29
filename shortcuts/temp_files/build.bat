@@ -1,0 +1,3 @@
+@echo off
+
+clang *.cpp
